@@ -1,0 +1,36 @@
+{
+ "primary": {
+  "signal": "MBOFormer top-10%",
+  "h": 100,
+  "lag_s": 0.5,
+  "size": 1,
+  "mode": "one at a time"
+ },
+ "families": {
+  "BTC 15m": {
+   "profit_c": -1.0312829536692671,
+   "ci": [
+    -1.1654837471968609,
+    -0.8807548423648447
+   ],
+   "p_holm": 1.0,
+   "trades": 2756,
+   "best_rule_c": -0.8462655159422589,
+   "contracts_profitable": "0/30",
+   "passes": false
+  },
+  "ETH 15m": {
+   "profit_c": -0.0980119602654569,
+   "ci": [
+    -0.5148625296206555,
+    0.3316748987526329
+   ],
+   "p_holm": 1.0,
+   "trades": 651,
+   "best_rule_c": -1.1263171885407417,
+   "contracts_profitable": "14/30",
+   "passes": false
+  }
+ },
+ "PASS": false
+}

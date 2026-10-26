@@ -1,0 +1,11 @@
+{
+ "PASS": false,
+ "passing": [],
+ "spec": {
+  "lag_s": 0.25,
+  "maker_lag_s": 0.1,
+  "size": 5,
+  "fee": "0.07*p*(1-p)",
+  "test_contracts": 40
+ }
+}

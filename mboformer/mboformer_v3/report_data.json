@@ -1,0 +1,8598 @@
+{
+ "f1_honest": [
+  {
+   "family": "BTC 15m",
+   "h": 100,
+   "model": "Always flat",
+   "f1": 0.1951,
+   "n_test": 1070856.0,
+   "alpha_c": 0.7287,
+   "share_down": 0.2937,
+   "share_flat": 0.4136,
+   "share_up": 0.2927,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 100,
+   "model": "Logistic (12 features)",
+   "f1": 0.5303,
+   "n_test": 1070856.0,
+   "alpha_c": 0.7287,
+   "share_down": 0.2937,
+   "share_flat": 0.4136,
+   "share_up": 0.2927,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 100,
+   "model": "MBOFormer",
+   "f1": 0.5264,
+   "n_test": 1070856.0,
+   "alpha_c": 0.7287,
+   "share_down": 0.2937,
+   "share_flat": 0.4136,
+   "share_up": 0.2927,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 100,
+   "model": "L2Former",
+   "f1": 0.5381,
+   "n_test": 1070856.0,
+   "alpha_c": 0.7287,
+   "share_down": 0.2937,
+   "share_flat": 0.4136,
+   "share_up": 0.2927,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 100,
+   "model": "MBOFormer - L2Former",
+   "f1": -0.0117,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": -0.0168,
+   "ci_hi": -0.0063
+  },
+  {
+   "family": "BTC 15m",
+   "h": 100,
+   "model": "MBOFormer - Logistic (12 features)",
+   "f1": -0.0039,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": -0.0081,
+   "ci_hi": -0.0
+  },
+  {
+   "family": "BTC 15m",
+   "h": 10,
+   "model": "Always flat",
+   "f1": 0.2885,
+   "n_test": 1074456.0,
+   "alpha_c": 0.0959,
+   "share_down": 0.1189,
+   "share_flat": 0.7631,
+   "share_up": 0.1179,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 10,
+   "model": "Logistic (12 features)",
+   "f1": 0.7187,
+   "n_test": 1074456.0,
+   "alpha_c": 0.0959,
+   "share_down": 0.1189,
+   "share_flat": 0.7631,
+   "share_up": 0.1179,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 10,
+   "model": "MBOFormer",
+   "f1": 0.7743,
+   "n_test": 1074456.0,
+   "alpha_c": 0.0959,
+   "share_down": 0.1189,
+   "share_flat": 0.7631,
+   "share_up": 0.1179,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 10,
+   "model": "L2Former",
+   "f1": 0.7781,
+   "n_test": 1074456.0,
+   "alpha_c": 0.0959,
+   "share_down": 0.1189,
+   "share_flat": 0.7631,
+   "share_up": 0.1179,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 10,
+   "model": "MBOFormer - L2Former",
+   "f1": -0.0037,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": -0.0082,
+   "ci_hi": 0.0007
+  },
+  {
+   "family": "BTC 15m",
+   "h": 10,
+   "model": "MBOFormer - Logistic (12 features)",
+   "f1": 0.0557,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0522,
+   "ci_hi": 0.0591
+  },
+  {
+   "family": "BTC 15m",
+   "h": 20,
+   "model": "Always flat",
+   "f1": 0.2764,
+   "n_test": 1074056.0,
+   "alpha_c": 0.1837,
+   "share_down": 0.1465,
+   "share_flat": 0.7083,
+   "share_up": 0.1452,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 20,
+   "model": "Logistic (12 features)",
+   "f1": 0.6544,
+   "n_test": 1074056.0,
+   "alpha_c": 0.1837,
+   "share_down": 0.1465,
+   "share_flat": 0.7083,
+   "share_up": 0.1452,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 20,
+   "model": "MBOFormer",
+   "f1": 0.7143,
+   "n_test": 1074056.0,
+   "alpha_c": 0.1837,
+   "share_down": 0.1465,
+   "share_flat": 0.7083,
+   "share_up": 0.1452,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 20,
+   "model": "L2Former",
+   "f1": 0.7222,
+   "n_test": 1074056.0,
+   "alpha_c": 0.1837,
+   "share_down": 0.1465,
+   "share_flat": 0.7083,
+   "share_up": 0.1452,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 20,
+   "model": "MBOFormer - L2Former",
+   "f1": -0.0079,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": -0.0118,
+   "ci_hi": -0.0035
+  },
+  {
+   "family": "BTC 15m",
+   "h": 20,
+   "model": "MBOFormer - Logistic (12 features)",
+   "f1": 0.0599,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0564,
+   "ci_hi": 0.0634
+  },
+  {
+   "family": "BTC 15m",
+   "h": 50,
+   "model": "Always flat",
+   "f1": 0.2412,
+   "n_test": 1072856.0,
+   "alpha_c": 0.4154,
+   "share_down": 0.2174,
+   "share_flat": 0.5668,
+   "share_up": 0.2157,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 50,
+   "model": "Logistic (12 features)",
+   "f1": 0.5864,
+   "n_test": 1072856.0,
+   "alpha_c": 0.4154,
+   "share_down": 0.2174,
+   "share_flat": 0.5668,
+   "share_up": 0.2157,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 50,
+   "model": "MBOFormer",
+   "f1": 0.5921,
+   "n_test": 1072856.0,
+   "alpha_c": 0.4154,
+   "share_down": 0.2174,
+   "share_flat": 0.5668,
+   "share_up": 0.2157,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 50,
+   "model": "L2Former",
+   "f1": 0.6177,
+   "n_test": 1072856.0,
+   "alpha_c": 0.4154,
+   "share_down": 0.2174,
+   "share_flat": 0.5668,
+   "share_up": 0.2157,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "BTC 15m",
+   "h": 50,
+   "model": "MBOFormer - L2Former",
+   "f1": -0.0256,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": -0.0297,
+   "ci_hi": -0.0216
+  },
+  {
+   "family": "BTC 15m",
+   "h": 50,
+   "model": "MBOFormer - Logistic (12 features)",
+   "f1": 0.0058,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0025,
+   "ci_hi": 0.0091
+  },
+  {
+   "family": "ETH 15m",
+   "h": 100,
+   "model": "Always flat",
+   "f1": 0.1901,
+   "n_test": 502021.0,
+   "alpha_c": 1.2926,
+   "share_down": 0.3104,
+   "share_flat": 0.3988,
+   "share_up": 0.2907,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 100,
+   "model": "Logistic (12 features)",
+   "f1": 0.3937,
+   "n_test": 502021.0,
+   "alpha_c": 1.2926,
+   "share_down": 0.3104,
+   "share_flat": 0.3988,
+   "share_up": 0.2907,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 100,
+   "model": "MBOFormer",
+   "f1": 0.4733,
+   "n_test": 502021.0,
+   "alpha_c": 1.2926,
+   "share_down": 0.3104,
+   "share_flat": 0.3988,
+   "share_up": 0.2907,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 100,
+   "model": "L2Former",
+   "f1": 0.4325,
+   "n_test": 502021.0,
+   "alpha_c": 1.2926,
+   "share_down": 0.3104,
+   "share_flat": 0.3988,
+   "share_up": 0.2907,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 100,
+   "model": "MBOFormer - L2Former",
+   "f1": 0.0408,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0311,
+   "ci_hi": 0.0497
+  },
+  {
+   "family": "ETH 15m",
+   "h": 100,
+   "model": "MBOFormer - Logistic (12 features)",
+   "f1": 0.0796,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0715,
+   "ci_hi": 0.0871
+  },
+  {
+   "family": "ETH 15m",
+   "h": 10,
+   "model": "Always flat",
+   "f1": 0.2223,
+   "n_test": 505621.0,
+   "alpha_c": 0.228,
+   "share_down": 0.2533,
+   "share_flat": 0.5004,
+   "share_up": 0.2464,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 10,
+   "model": "Logistic (12 features)",
+   "f1": 0.6597,
+   "n_test": 505621.0,
+   "alpha_c": 0.228,
+   "share_down": 0.2533,
+   "share_flat": 0.5004,
+   "share_up": 0.2464,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 10,
+   "model": "MBOFormer",
+   "f1": 0.7246,
+   "n_test": 505621.0,
+   "alpha_c": 0.228,
+   "share_down": 0.2533,
+   "share_flat": 0.5004,
+   "share_up": 0.2464,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 10,
+   "model": "L2Former",
+   "f1": 0.6582,
+   "n_test": 505621.0,
+   "alpha_c": 0.228,
+   "share_down": 0.2533,
+   "share_flat": 0.5004,
+   "share_up": 0.2464,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 10,
+   "model": "MBOFormer - L2Former",
+   "f1": 0.0664,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0631,
+   "ci_hi": 0.0698
+  },
+  {
+   "family": "ETH 15m",
+   "h": 10,
+   "model": "MBOFormer - Logistic (12 features)",
+   "f1": 0.0649,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0618,
+   "ci_hi": 0.0679
+  },
+  {
+   "family": "ETH 15m",
+   "h": 20,
+   "model": "Always flat",
+   "f1": 0.2112,
+   "n_test": 505221.0,
+   "alpha_c": 0.4073,
+   "share_down": 0.2724,
+   "share_flat": 0.4637,
+   "share_up": 0.2639,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 20,
+   "model": "Logistic (12 features)",
+   "f1": 0.5599,
+   "n_test": 505221.0,
+   "alpha_c": 0.4073,
+   "share_down": 0.2724,
+   "share_flat": 0.4637,
+   "share_up": 0.2639,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 20,
+   "model": "MBOFormer",
+   "f1": 0.6003,
+   "n_test": 505221.0,
+   "alpha_c": 0.4073,
+   "share_down": 0.2724,
+   "share_flat": 0.4637,
+   "share_up": 0.2639,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 20,
+   "model": "L2Former",
+   "f1": 0.5279,
+   "n_test": 505221.0,
+   "alpha_c": 0.4073,
+   "share_down": 0.2724,
+   "share_flat": 0.4637,
+   "share_up": 0.2639,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 20,
+   "model": "MBOFormer - L2Former",
+   "f1": 0.0723,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0683,
+   "ci_hi": 0.0764
+  },
+  {
+   "family": "ETH 15m",
+   "h": 20,
+   "model": "MBOFormer - Logistic (12 features)",
+   "f1": 0.0404,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0375,
+   "ci_hi": 0.0433
+  },
+  {
+   "family": "ETH 15m",
+   "h": 50,
+   "model": "Always flat",
+   "f1": 0.1878,
+   "n_test": 504021.0,
+   "alpha_c": 0.8119,
+   "share_down": 0.3108,
+   "share_flat": 0.3921,
+   "share_up": 0.2972,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 50,
+   "model": "Logistic (12 features)",
+   "f1": 0.4608,
+   "n_test": 504021.0,
+   "alpha_c": 0.8119,
+   "share_down": 0.3108,
+   "share_flat": 0.3921,
+   "share_up": 0.2972,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 50,
+   "model": "MBOFormer",
+   "f1": 0.5043,
+   "n_test": 504021.0,
+   "alpha_c": 0.8119,
+   "share_down": 0.3108,
+   "share_flat": 0.3921,
+   "share_up": 0.2972,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 50,
+   "model": "L2Former",
+   "f1": 0.4473,
+   "n_test": 504021.0,
+   "alpha_c": 0.8119,
+   "share_down": 0.3108,
+   "share_flat": 0.3921,
+   "share_up": 0.2972,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "ETH 15m",
+   "h": 50,
+   "model": "MBOFormer - L2Former",
+   "f1": 0.057,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0501,
+   "ci_hi": 0.0646
+  },
+  {
+   "family": "ETH 15m",
+   "h": 50,
+   "model": "MBOFormer - Logistic (12 features)",
+   "f1": 0.0435,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0382,
+   "ci_hi": 0.0487
+  },
+  {
+   "family": "Sports & esports",
+   "h": 100,
+   "model": "Always flat",
+   "f1": 0.2043,
+   "n_test": 57716.0,
+   "alpha_c": 0.8681,
+   "share_down": 0.2927,
+   "share_flat": 0.4417,
+   "share_up": 0.2656,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 100,
+   "model": "Logistic (12 features)",
+   "f1": 0.4541,
+   "n_test": 57716.0,
+   "alpha_c": 0.8681,
+   "share_down": 0.2927,
+   "share_flat": 0.4417,
+   "share_up": 0.2656,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 100,
+   "model": "MBOFormer",
+   "f1": 0.4415,
+   "n_test": 57716.0,
+   "alpha_c": 0.8681,
+   "share_down": 0.2927,
+   "share_flat": 0.4417,
+   "share_up": 0.2656,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 100,
+   "model": "L2Former",
+   "f1": 0.442,
+   "n_test": 57716.0,
+   "alpha_c": 0.8681,
+   "share_down": 0.2927,
+   "share_flat": 0.4417,
+   "share_up": 0.2656,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 100,
+   "model": "MBOFormer - L2Former",
+   "f1": -0.0005,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": -0.0293,
+   "ci_hi": 0.0266
+  },
+  {
+   "family": "Sports & esports",
+   "h": 100,
+   "model": "MBOFormer - Logistic (12 features)",
+   "f1": -0.0126,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": -0.0355,
+   "ci_hi": 0.0053
+  },
+  {
+   "family": "Sports & esports",
+   "h": 10,
+   "model": "Always flat",
+   "f1": 0.2332,
+   "n_test": 58166.0,
+   "alpha_c": 0.1359,
+   "share_down": 0.2364,
+   "share_flat": 0.5379,
+   "share_up": 0.2257,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 10,
+   "model": "Logistic (12 features)",
+   "f1": 0.6187,
+   "n_test": 58166.0,
+   "alpha_c": 0.1359,
+   "share_down": 0.2364,
+   "share_flat": 0.5379,
+   "share_up": 0.2257,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 10,
+   "model": "MBOFormer",
+   "f1": 0.6502,
+   "n_test": 58166.0,
+   "alpha_c": 0.1359,
+   "share_down": 0.2364,
+   "share_flat": 0.5379,
+   "share_up": 0.2257,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 10,
+   "model": "L2Former",
+   "f1": 0.6046,
+   "n_test": 58166.0,
+   "alpha_c": 0.1359,
+   "share_down": 0.2364,
+   "share_flat": 0.5379,
+   "share_up": 0.2257,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 10,
+   "model": "MBOFormer - L2Former",
+   "f1": 0.0457,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0378,
+   "ci_hi": 0.0527
+  },
+  {
+   "family": "Sports & esports",
+   "h": 10,
+   "model": "MBOFormer - Logistic (12 features)",
+   "f1": 0.0315,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0226,
+   "ci_hi": 0.0411
+  },
+  {
+   "family": "Sports & esports",
+   "h": 20,
+   "model": "Always flat",
+   "f1": 0.222,
+   "n_test": 58116.0,
+   "alpha_c": 0.244,
+   "share_down": 0.2564,
+   "share_flat": 0.4992,
+   "share_up": 0.2444,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 20,
+   "model": "Logistic (12 features)",
+   "f1": 0.5293,
+   "n_test": 58116.0,
+   "alpha_c": 0.244,
+   "share_down": 0.2564,
+   "share_flat": 0.4992,
+   "share_up": 0.2444,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 20,
+   "model": "MBOFormer",
+   "f1": 0.5521,
+   "n_test": 58116.0,
+   "alpha_c": 0.244,
+   "share_down": 0.2564,
+   "share_flat": 0.4992,
+   "share_up": 0.2444,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 20,
+   "model": "L2Former",
+   "f1": 0.5193,
+   "n_test": 58116.0,
+   "alpha_c": 0.244,
+   "share_down": 0.2564,
+   "share_flat": 0.4992,
+   "share_up": 0.2444,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 20,
+   "model": "MBOFormer - L2Former",
+   "f1": 0.0328,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0204,
+   "ci_hi": 0.0453
+  },
+  {
+   "family": "Sports & esports",
+   "h": 20,
+   "model": "MBOFormer - Logistic (12 features)",
+   "f1": 0.0228,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": 0.0139,
+   "ci_hi": 0.0317
+  },
+  {
+   "family": "Sports & esports",
+   "h": 50,
+   "model": "Always flat",
+   "f1": 0.2235,
+   "n_test": 57966.0,
+   "alpha_c": 0.5109,
+   "share_down": 0.2614,
+   "share_flat": 0.5044,
+   "share_up": 0.2342,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 50,
+   "model": "Logistic (12 features)",
+   "f1": 0.4747,
+   "n_test": 57966.0,
+   "alpha_c": 0.5109,
+   "share_down": 0.2614,
+   "share_flat": 0.5044,
+   "share_up": 0.2342,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 50,
+   "model": "MBOFormer",
+   "f1": 0.4729,
+   "n_test": 57966.0,
+   "alpha_c": 0.5109,
+   "share_down": 0.2614,
+   "share_flat": 0.5044,
+   "share_up": 0.2342,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 50,
+   "model": "L2Former",
+   "f1": 0.4663,
+   "n_test": 57966.0,
+   "alpha_c": 0.5109,
+   "share_down": 0.2614,
+   "share_flat": 0.5044,
+   "share_up": 0.2342,
+   "ci_lo": null,
+   "ci_hi": null
+  },
+  {
+   "family": "Sports & esports",
+   "h": 50,
+   "model": "MBOFormer - L2Former",
+   "f1": 0.0066,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": -0.012,
+   "ci_hi": 0.0256
+  },
+  {
+   "family": "Sports & esports",
+   "h": 50,
+   "model": "MBOFormer - Logistic (12 features)",
+   "f1": -0.0018,
+   "n_test": null,
+   "alpha_c": null,
+   "share_down": null,
+   "share_flat": null,
+   "share_up": null,
+   "ci_lo": -0.0179,
+   "ci_hi": 0.0133
+  }
+ ],
+ "f1_leaky_diff": [
+  {
+   "family": "BTC 15m",
+   "h": 10,
+   "run": "v1 replication (leaky)",
+   "diff": -0.0177,
+   "lo": -0.0242,
+   "hi": -0.0097
+  },
+  {
+   "family": "BTC 15m",
+   "h": 20,
+   "run": "v1 replication (leaky)",
+   "diff": -0.0069,
+   "lo": -0.0137,
+   "hi": 0.0001
+  },
+  {
+   "family": "BTC 15m",
+   "h": 50,
+   "run": "v1 replication (leaky)",
+   "diff": 0.028,
+   "lo": 0.0186,
+   "hi": 0.0372
+  },
+  {
+   "family": "BTC 15m",
+   "h": 100,
+   "run": "v1 replication (leaky)",
+   "diff": 0.0798,
+   "lo": 0.0624,
+   "hi": 0.0964
+  },
+  {
+   "family": "BTC 15m",
+   "h": 50,
+   "run": "v2 re-test (leaky)",
+   "diff": 0.026,
+   "lo": 0.0206,
+   "hi": 0.0312
+  },
+  {
+   "family": "BTC 15m",
+   "h": 100,
+   "run": "v2 re-test (leaky)",
+   "diff": 0.0766,
+   "lo": 0.0686,
+   "hi": 0.0851
+  },
+  {
+   "family": "ETH 15m",
+   "h": 10,
+   "run": "v1 replication (leaky)",
+   "diff": 0.09,
+   "lo": 0.0749,
+   "hi": 0.1054
+  },
+  {
+   "family": "ETH 15m",
+   "h": 20,
+   "run": "v1 replication (leaky)",
+   "diff": 0.0718,
+   "lo": 0.0515,
+   "hi": 0.0912
+  },
+  {
+   "family": "ETH 15m",
+   "h": 50,
+   "run": "v1 replication (leaky)",
+   "diff": 0.0678,
+   "lo": 0.0384,
+   "hi": 0.0975
+  },
+  {
+   "family": "ETH 15m",
+   "h": 100,
+   "run": "v1 replication (leaky)",
+   "diff": 0.0396,
+   "lo": -0.0069,
+   "hi": 0.0903
+  },
+  {
+   "family": "ETH 15m",
+   "h": 50,
+   "run": "v2 re-test (leaky)",
+   "diff": 0.083,
+   "lo": 0.0756,
+   "hi": 0.0908
+  },
+  {
+   "family": "ETH 15m",
+   "h": 100,
+   "run": "v2 re-test (leaky)",
+   "diff": 0.0646,
+   "lo": 0.0541,
+   "hi": 0.0757
+  },
+  {
+   "family": "Sports & esports",
+   "h": 10,
+   "run": "v1 replication (leaky)",
+   "diff": 0.0508,
+   "lo": 0.0407,
+   "hi": 0.059
+  },
+  {
+   "family": "Sports & esports",
+   "h": 20,
+   "run": "v1 replication (leaky)",
+   "diff": 0.034,
+   "lo": 0.0208,
+   "hi": 0.0464
+  },
+  {
+   "family": "Sports & esports",
+   "h": 50,
+   "run": "v1 replication (leaky)",
+   "diff": 0.0874,
+   "lo": 0.0605,
+   "hi": 0.1114
+  },
+  {
+   "family": "Sports & esports",
+   "h": 100,
+   "run": "v1 replication (leaky)",
+   "diff": 0.1117,
+   "lo": 0.0805,
+   "hi": 0.1421
+  }
+ ],
+ "strategies": [
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "kind": "taker",
+   "param": null,
+   "val_total": -182.6721,
+   "usd_per_contract": -13.8366,
+   "lo": -16.1853,
+   "hi": -11.64,
+   "p": 1.0,
+   "contracts_profitable": 0,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "kind": "taker",
+   "param": "0.6",
+   "val_total": 0.8695,
+   "usd_per_contract": -0.0059,
+   "lo": -0.1637,
+   "hi": 0.1461,
+   "p": 0.6512,
+   "contracts_profitable": 1,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "kind": "taker",
+   "param": "0.5",
+   "val_total": 0.0,
+   "usd_per_contract": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "p": 1.0,
+   "contracts_profitable": 0,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "kind": "taker",
+   "param": "0.6",
+   "val_total": -0.9056,
+   "usd_per_contract": -0.1246,
+   "lo": -0.3191,
+   "hi": 0.0421,
+   "p": 0.921,
+   "contracts_profitable": 4,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "kind": "taker",
+   "param": "0.5",
+   "val_total": -2.3696,
+   "usd_per_contract": -0.3008,
+   "lo": -0.8108,
+   "hi": 0.1282,
+   "p": 0.9022,
+   "contracts_profitable": 15,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "kind": "taker",
+   "param": "0.4",
+   "val_total": 0.0,
+   "usd_per_contract": -0.0466,
+   "lo": -0.1179,
+   "hi": 0.0,
+   "p": 1.0,
+   "contracts_profitable": 0,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "kind": "taker",
+   "param": "0.6",
+   "val_total": -4.0213,
+   "usd_per_contract": -0.0744,
+   "lo": -0.3014,
+   "hi": 0.1055,
+   "p": 0.7555,
+   "contracts_profitable": 6,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "kind": "taker",
+   "param": "0.04",
+   "val_total": 77.8823,
+   "usd_per_contract": -6.4863,
+   "lo": -14.9675,
+   "hi": 1.4959,
+   "p": 0.9457,
+   "contracts_profitable": 22,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "kind": "maker",
+   "param": null,
+   "val_total": -21.665,
+   "usd_per_contract": -1.3785,
+   "lo": -2.9166,
+   "hi": 0.2675,
+   "p": 0.9555,
+   "contracts_profitable": 10,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "kind": "maker",
+   "param": "0.4",
+   "val_total": 53.165,
+   "usd_per_contract": 4.0935,
+   "lo": 3.0135,
+   "hi": 5.3079,
+   "p": 0.0,
+   "contracts_profitable": 38,
+   "contracts": 40,
+   "p_holm": 0.0,
+   "passes_family": true
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "kind": "maker",
+   "param": "0.02",
+   "val_total": 15.3,
+   "usd_per_contract": -0.2087,
+   "lo": -1.0662,
+   "hi": 0.595,
+   "p": 0.696,
+   "contracts_profitable": 21,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "kind": "maker",
+   "param": "0.3",
+   "val_total": -16.22,
+   "usd_per_contract": -0.9657,
+   "lo": -2.3333,
+   "hi": 0.4564,
+   "p": 0.9155,
+   "contracts_profitable": 13,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "kind": "maker",
+   "param": "(0.02, 0.5)",
+   "val_total": 15.7,
+   "usd_per_contract": -0.2375,
+   "lo": -1.095,
+   "hi": 0.5713,
+   "p": 0.7167,
+   "contracts_profitable": 21,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "kind": "taker",
+   "param": null,
+   "val_total": -80.3849,
+   "usd_per_contract": -7.9243,
+   "lo": -9.5126,
+   "hi": -6.4212,
+   "p": 1.0,
+   "contracts_profitable": 1,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "kind": "taker",
+   "param": "0.4",
+   "val_total": 1.3155,
+   "usd_per_contract": -0.2017,
+   "lo": -0.4828,
+   "hi": 0.0337,
+   "p": 0.9503,
+   "contracts_profitable": 5,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "kind": "taker",
+   "param": "0.5",
+   "val_total": 1.6762,
+   "usd_per_contract": -0.0347,
+   "lo": -0.168,
+   "hi": 0.1027,
+   "p": 0.6885,
+   "contracts_profitable": 2,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "kind": "taker",
+   "param": "0.5",
+   "val_total": 1.6006,
+   "usd_per_contract": -0.1581,
+   "lo": -0.4245,
+   "hi": 0.0843,
+   "p": 0.8968,
+   "contracts_profitable": 4,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "kind": "taker",
+   "param": "0.6",
+   "val_total": -1.9588,
+   "usd_per_contract": -0.1025,
+   "lo": -0.2975,
+   "hi": 0.0763,
+   "p": 0.8638,
+   "contracts_profitable": 9,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "kind": "taker",
+   "param": "0.5",
+   "val_total": 0.5369,
+   "usd_per_contract": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "p": 1.0,
+   "contracts_profitable": 0,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "kind": "taker",
+   "param": "0.6",
+   "val_total": -1.2155,
+   "usd_per_contract": -0.2191,
+   "lo": -0.4392,
+   "hi": -0.0193,
+   "p": 0.987,
+   "contracts_profitable": 4,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "kind": "taker",
+   "param": "0.1",
+   "val_total": -15.5811,
+   "usd_per_contract": 0.8675,
+   "lo": -5.2636,
+   "hi": 7.076,
+   "p": 0.3932,
+   "contracts_profitable": 17,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "kind": "maker",
+   "param": null,
+   "val_total": -91.285,
+   "usd_per_contract": -8.4878,
+   "lo": -10.5274,
+   "hi": -6.6903,
+   "p": 1.0,
+   "contracts_profitable": 0,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "kind": "maker",
+   "param": "0.3",
+   "val_total": 5.19,
+   "usd_per_contract": -0.413,
+   "lo": -1.0834,
+   "hi": 0.2415,
+   "p": 0.8908,
+   "contracts_profitable": 18,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "kind": "maker",
+   "param": "0.04",
+   "val_total": -10.2,
+   "usd_per_contract": 0.13,
+   "lo": -0.6275,
+   "hi": 0.8838,
+   "p": 0.3678,
+   "contracts_profitable": 21,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "kind": "maker",
+   "param": "0.3",
+   "val_total": -76.11,
+   "usd_per_contract": -7.404,
+   "lo": -9.0984,
+   "hi": -5.8956,
+   "p": 1.0,
+   "contracts_profitable": 0,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "kind": "maker",
+   "param": "(0.04, 0.3)",
+   "val_total": -8.8,
+   "usd_per_contract": 0.1187,
+   "lo": -0.6225,
+   "hi": 0.8526,
+   "p": 0.371,
+   "contracts_profitable": 21,
+   "contracts": 40,
+   "p_holm": 1.0,
+   "passes_family": false
+  }
+ ],
+ "latency": [
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal",
+   "lag_s": 0.0,
+   "usd": -9.3571,
+   "lo": -10.8701,
+   "hi": -7.8646
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware + spot, H=10s",
+   "lag_s": 0.0,
+   "usd": -0.0049,
+   "lo": -0.1379,
+   "hi": 0.1232
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware + spot, H=30s",
+   "lag_s": 0.0,
+   "usd": -0.2655,
+   "lo": -0.7796,
+   "hi": 0.1697
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, hold",
+   "lag_s": 0.0,
+   "usd": -6.5893,
+   "lo": -15.0913,
+   "hi": 1.4364
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal",
+   "lag_s": 0.1,
+   "usd": -11.6126,
+   "lo": -13.5363,
+   "hi": -9.7487
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware + spot, H=10s",
+   "lag_s": 0.1,
+   "usd": 0.0065,
+   "lo": -0.1378,
+   "hi": 0.1572
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware + spot, H=30s",
+   "lag_s": 0.1,
+   "usd": -0.2857,
+   "lo": -0.7945,
+   "hi": 0.1519
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, hold",
+   "lag_s": 0.1,
+   "usd": -6.4852,
+   "lo": -15.0048,
+   "hi": 1.5641
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal",
+   "lag_s": 0.2,
+   "usd": -13.3835,
+   "lo": -15.628,
+   "hi": -11.2674
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware + spot, H=10s",
+   "lag_s": 0.2,
+   "usd": -0.0034,
+   "lo": -0.1601,
+   "hi": 0.1498
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware + spot, H=30s",
+   "lag_s": 0.2,
+   "usd": -0.2906,
+   "lo": -0.804,
+   "hi": 0.1399
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, hold",
+   "lag_s": 0.2,
+   "usd": -6.4822,
+   "lo": -14.9976,
+   "hi": 1.512
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal",
+   "lag_s": 0.25,
+   "usd": -13.8366,
+   "lo": -16.1853,
+   "hi": -11.64
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware + spot, H=10s",
+   "lag_s": 0.25,
+   "usd": -0.0059,
+   "lo": -0.1637,
+   "hi": 0.1461
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware + spot, H=30s",
+   "lag_s": 0.25,
+   "usd": -0.3008,
+   "lo": -0.8108,
+   "hi": 0.1282
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, hold",
+   "lag_s": 0.25,
+   "usd": -6.4863,
+   "lo": -14.9675,
+   "hi": 1.4959
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal",
+   "lag_s": 0.35,
+   "usd": -14.3283,
+   "lo": -16.7279,
+   "hi": -12.0649
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware + spot, H=10s",
+   "lag_s": 0.35,
+   "usd": -0.0069,
+   "lo": -0.1524,
+   "hi": 0.1318
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware + spot, H=30s",
+   "lag_s": 0.35,
+   "usd": -0.2879,
+   "lo": -0.7638,
+   "hi": 0.1243
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, hold",
+   "lag_s": 0.35,
+   "usd": -6.4951,
+   "lo": -14.9768,
+   "hi": 1.5207
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal",
+   "lag_s": 0.5,
+   "usd": -14.5572,
+   "lo": -16.9775,
+   "hi": -12.2758
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware + spot, H=10s",
+   "lag_s": 0.5,
+   "usd": -0.0007,
+   "lo": -0.1449,
+   "hi": 0.1428
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware + spot, H=30s",
+   "lag_s": 0.5,
+   "usd": -0.3301,
+   "lo": -0.8054,
+   "hi": 0.0929
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, hold",
+   "lag_s": 0.5,
+   "usd": -6.5481,
+   "lo": -15.0308,
+   "hi": 1.4591
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "lag_s": 0.05,
+   "usd": -0.2209,
+   "lo": -1.0718,
+   "hi": 0.5916
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "lag_s": 0.1,
+   "usd": -0.2087,
+   "lo": -1.0662,
+   "hi": 0.595
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "lag_s": 0.2,
+   "usd": -0.1364,
+   "lo": -0.9206,
+   "hi": 0.6273
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal",
+   "lag_s": 0.0,
+   "usd": -4.8993,
+   "lo": -5.9702,
+   "hi": -3.8856
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware + spot, H=10s",
+   "lag_s": 0.0,
+   "usd": -0.2522,
+   "lo": -0.5518,
+   "hi": -0.001
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware + spot, H=30s",
+   "lag_s": 0.0,
+   "usd": -0.1317,
+   "lo": -0.3389,
+   "hi": 0.0501
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, hold",
+   "lag_s": 0.0,
+   "usd": 0.7588,
+   "lo": -5.3286,
+   "hi": 6.873
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal",
+   "lag_s": 0.1,
+   "usd": -7.2611,
+   "lo": -8.7527,
+   "hi": -5.7988
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware + spot, H=10s",
+   "lag_s": 0.1,
+   "usd": -0.1832,
+   "lo": -0.4518,
+   "hi": 0.0477
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware + spot, H=30s",
+   "lag_s": 0.1,
+   "usd": -0.1185,
+   "lo": -0.3126,
+   "hi": 0.0583
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, hold",
+   "lag_s": 0.1,
+   "usd": 0.8004,
+   "lo": -5.3022,
+   "hi": 6.9259
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal",
+   "lag_s": 0.2,
+   "usd": -7.8746,
+   "lo": -9.4366,
+   "hi": -6.3677
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware + spot, H=10s",
+   "lag_s": 0.2,
+   "usd": -0.199,
+   "lo": -0.4798,
+   "hi": 0.0327
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware + spot, H=30s",
+   "lag_s": 0.2,
+   "usd": -0.1149,
+   "lo": -0.3057,
+   "hi": 0.0564
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, hold",
+   "lag_s": 0.2,
+   "usd": 0.8812,
+   "lo": -5.232,
+   "hi": 7.0841
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal",
+   "lag_s": 0.25,
+   "usd": -7.9243,
+   "lo": -9.5126,
+   "hi": -6.4212
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware + spot, H=10s",
+   "lag_s": 0.25,
+   "usd": -0.2017,
+   "lo": -0.4828,
+   "hi": 0.0337
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware + spot, H=30s",
+   "lag_s": 0.25,
+   "usd": -0.1025,
+   "lo": -0.2975,
+   "hi": 0.0763
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, hold",
+   "lag_s": 0.25,
+   "usd": 0.8675,
+   "lo": -5.2636,
+   "hi": 7.076
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal",
+   "lag_s": 0.35,
+   "usd": -8.064,
+   "lo": -9.6046,
+   "hi": -6.5788
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware + spot, H=10s",
+   "lag_s": 0.35,
+   "usd": -0.167,
+   "lo": -0.4331,
+   "hi": 0.0579
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware + spot, H=30s",
+   "lag_s": 0.35,
+   "usd": -0.0788,
+   "lo": -0.2732,
+   "hi": 0.0991
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, hold",
+   "lag_s": 0.35,
+   "usd": 0.8529,
+   "lo": -5.2792,
+   "hi": 7.0662
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal",
+   "lag_s": 0.5,
+   "usd": -7.9622,
+   "lo": -9.4976,
+   "hi": -6.5125
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware + spot, H=10s",
+   "lag_s": 0.5,
+   "usd": -0.1909,
+   "lo": -0.4696,
+   "hi": 0.0584
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware + spot, H=30s",
+   "lag_s": 0.5,
+   "usd": -0.0704,
+   "lo": -0.2589,
+   "hi": 0.1013
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, hold",
+   "lag_s": 0.5,
+   "usd": 0.8428,
+   "lo": -5.2774,
+   "hi": 7.034
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "lag_s": 0.05,
+   "usd": 0.1125,
+   "lo": -0.6563,
+   "hi": 0.8789
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "lag_s": 0.1,
+   "usd": 0.13,
+   "lo": -0.6275,
+   "hi": 0.8838
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "lag_s": 0.2,
+   "usd": 0.274,
+   "lo": -0.4483,
+   "hi": 0.985
+  }
+ ],
+ "cost_stack": [
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal",
+   "fee": "V1 fee (what v1/v2 assumed)",
+   "trades": 3732,
+   "mid_c": 1.0629,
+   "after_spread_c": -0.1281,
+   "after_fees_c": -1.243
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal",
+   "fee": "V2 fee (actual)",
+   "trades": 3732,
+   "mid_c": 1.0629,
+   "after_spread_c": -0.1281,
+   "after_fees_c": -2.9661
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware + spot, H=10s",
+   "fee": "V2 fee (actual)",
+   "trades": 3,
+   "mid_c": 2.3333,
+   "after_spread_c": 1.0,
+   "after_fees_c": -1.5669
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware + spot, H=30s",
+   "fee": "V2 fee (actual)",
+   "trades": 130,
+   "mid_c": 0.8219,
+   "after_spread_c": -0.1575,
+   "after_fees_c": -1.8509
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, hold",
+   "fee": "V2 fee (actual)",
+   "trades": 699,
+   "mid_c": -6.1259,
+   "after_spread_c": -6.1259,
+   "after_fees_c": -7.4235
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal",
+   "fee": "V1 fee (what v1/v2 assumed)",
+   "trades": 1618,
+   "mid_c": 0.5519,
+   "after_spread_c": -0.9746,
+   "after_fees_c": -2.1672
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal",
+   "fee": "V2 fee (actual)",
+   "trades": 1618,
+   "mid_c": 0.5519,
+   "after_spread_c": -0.9746,
+   "after_fees_c": -3.9181
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware + spot, H=10s",
+   "fee": "V2 fee (actual)",
+   "trades": 68,
+   "mid_c": 1.8368,
+   "after_spread_c": -0.0455,
+   "after_fees_c": -2.3734
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware + spot, H=30s",
+   "fee": "V2 fee (actual)",
+   "trades": 61,
+   "mid_c": 1.7336,
+   "after_spread_c": 0.4305,
+   "after_fees_c": -1.3441
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, hold",
+   "fee": "V2 fee (actual)",
+   "trades": 242,
+   "mid_c": 4.2286,
+   "after_spread_c": 4.2286,
+   "after_fees_c": 2.8677
+  }
+ ],
+ "per_contract": [
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 34,
+   "usd": -11.2761
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 35,
+   "usd": -24.7557
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 36,
+   "usd": -15.3174
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 37,
+   "usd": -18.2549
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 38,
+   "usd": -13.3371
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 39,
+   "usd": -18.3598
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 40,
+   "usd": -5.9313
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 41,
+   "usd": -10.9112
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 42,
+   "usd": -33.0154
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 43,
+   "usd": -31.7161
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 44,
+   "usd": -8.8609
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 45,
+   "usd": -13.3311
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 46,
+   "usd": -19.4275
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 47,
+   "usd": -12.133
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 48,
+   "usd": -21.4227
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 49,
+   "usd": -6.2702
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 50,
+   "usd": -21.3925
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 51,
+   "usd": -23.1659
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 52,
+   "usd": -7.7017
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 53,
+   "usd": -21.8371
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 54,
+   "usd": -6.6524
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 55,
+   "usd": -18.3777
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 56,
+   "usd": -11.2722
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 57,
+   "usd": -6.7554
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 58,
+   "usd": -9.6499
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 59,
+   "usd": -22.7564
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 60,
+   "usd": -17.3029
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 61,
+   "usd": -13.1489
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 62,
+   "usd": -13.6257
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 63,
+   "usd": -10.3839
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 64,
+   "usd": -15.984
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 65,
+   "usd": -13.8022
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 66,
+   "usd": -9.2584
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 67,
+   "usd": -7.7072
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 68,
+   "usd": -8.031
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 69,
+   "usd": -14.905
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 70,
+   "usd": -5.6726
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 71,
+   "usd": -1.7064
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 72,
+   "usd": -5.5677
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 73,
+   "usd": -2.488
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 34,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 35,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 36,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 37,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 38,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 39,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 40,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 41,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 42,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 43,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 44,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 45,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 46,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 47,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 48,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 49,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 50,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 51,
+   "usd": -2.1828
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 52,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 53,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 54,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 55,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 56,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 57,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 58,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 59,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 60,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 61,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 62,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 63,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 64,
+   "usd": 1.9478
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 65,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 66,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 67,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 68,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 69,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 70,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 71,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 72,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 73,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 34,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 35,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 36,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 37,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 38,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 39,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 40,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 41,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 42,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 43,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 44,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 45,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 46,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 47,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 48,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 49,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 50,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 51,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 52,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 53,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 54,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 55,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 56,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 57,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 58,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 59,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 60,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 61,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 62,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 63,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 64,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 65,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 66,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 67,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 68,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 69,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 70,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 71,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 72,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 73,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 34,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 35,
+   "usd": -0.285
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 36,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 37,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 38,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 39,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 40,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 41,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 42,
+   "usd": 0.0323
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 43,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 44,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 45,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 46,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 47,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 48,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 49,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 50,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 51,
+   "usd": 1.4086
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 52,
+   "usd": -0.0348
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 53,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 54,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 55,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 56,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 57,
+   "usd": -0.6726
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 58,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 59,
+   "usd": -2.0009
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 60,
+   "usd": 0.166
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 61,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 62,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 63,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 64,
+   "usd": -1.5008
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 65,
+   "usd": -2.3018
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 66,
+   "usd": -0.0929
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 67,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 68,
+   "usd": 0.3302
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 69,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 70,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 71,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 72,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 73,
+   "usd": -0.0328
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 34,
+   "usd": -0.0265
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 35,
+   "usd": -0.1072
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 36,
+   "usd": 0.0485
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 37,
+   "usd": -0.0002
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 38,
+   "usd": -0.4673
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 39,
+   "usd": 0.2437
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 40,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 41,
+   "usd": 0.0761
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 42,
+   "usd": 2.9978
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 43,
+   "usd": 0.477
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 44,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 45,
+   "usd": -0.0623
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 46,
+   "usd": 0.1076
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 47,
+   "usd": 0.0414
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 48,
+   "usd": 1.1554
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 49,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 50,
+   "usd": -0.1318
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 51,
+   "usd": -6.381
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 52,
+   "usd": 2.0091
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 53,
+   "usd": -0.2377
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 54,
+   "usd": 0.1079
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 55,
+   "usd": -1.2012
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 56,
+   "usd": 0.6468
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 57,
+   "usd": -0.0147
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 58,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 59,
+   "usd": -3.5101
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 60,
+   "usd": -1.2989
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 61,
+   "usd": 0.0338
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 62,
+   "usd": -3.9265
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 63,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 64,
+   "usd": -0.2796
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 65,
+   "usd": -3.0412
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 66,
+   "usd": -0.1259
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 67,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 68,
+   "usd": -0.6614
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 69,
+   "usd": 0.2182
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 70,
+   "usd": 0.1201
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 71,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 72,
+   "usd": 1.3854
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 73,
+   "usd": -0.2264
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 34,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 35,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 36,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 37,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 38,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 39,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 40,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 41,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 42,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 43,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 44,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 45,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 46,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 47,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 48,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 49,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 50,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 51,
+   "usd": -0.9918
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 52,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 53,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 54,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 55,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 56,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 57,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 58,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 59,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 60,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 61,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 62,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 63,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 64,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 65,
+   "usd": -0.871
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 66,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 67,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 68,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 69,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 70,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 71,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 72,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 73,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 34,
+   "usd": -0.0243
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 35,
+   "usd": 0.9364
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 36,
+   "usd": -0.0302
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 37,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 38,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 39,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 40,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 41,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 42,
+   "usd": 0.6991
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 43,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 44,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 45,
+   "usd": -0.0738
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 46,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 47,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 48,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 49,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 50,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 51,
+   "usd": 0.6974
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 52,
+   "usd": -0.1515
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 53,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 54,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 55,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 56,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 57,
+   "usd": -1.0693
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 58,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 59,
+   "usd": 0.3783
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 60,
+   "usd": 0.2699
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 61,
+   "usd": -0.0325
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 62,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 63,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 64,
+   "usd": -3.0364
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 65,
+   "usd": -1.8639
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 66,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 67,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 68,
+   "usd": -0.4586
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 69,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 70,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 71,
+   "usd": 0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 72,
+   "usd": 1.0238
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 73,
+   "usd": -0.2403
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 34,
+   "usd": 19.8981
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 35,
+   "usd": -55.5768
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 36,
+   "usd": 17.1631
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 37,
+   "usd": 27.2966
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 38,
+   "usd": 12.0959
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 39,
+   "usd": 8.722
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 40,
+   "usd": 5.9307
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 41,
+   "usd": -3.651
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 42,
+   "usd": -71.6391
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 43,
+   "usd": -71.8017
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 44,
+   "usd": 12.403
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 45,
+   "usd": 13.0954
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 46,
+   "usd": -25.6302
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 47,
+   "usd": 3.2509
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 48,
+   "usd": -14.3796
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 49,
+   "usd": 0.3406
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 50,
+   "usd": -12.3123
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 51,
+   "usd": -50.9223
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 52,
+   "usd": -33.3251
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 53,
+   "usd": 3.6138
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 54,
+   "usd": -14.4716
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 55,
+   "usd": 4.3637
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 56,
+   "usd": 21.257
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 57,
+   "usd": -32.8544
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 58,
+   "usd": -4.6596
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 59,
+   "usd": 8.7387
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 60,
+   "usd": 3.8164
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 61,
+   "usd": 27.483
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 62,
+   "usd": -21.9315
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 63,
+   "usd": 1.3455
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 64,
+   "usd": -14.3618
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 65,
+   "usd": -21.6847
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 66,
+   "usd": 13.6646
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 67,
+   "usd": -8.2132
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 68,
+   "usd": -36.0197
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 69,
+   "usd": 34.7951
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 70,
+   "usd": 19.6884
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 71,
+   "usd": 12.2678
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 72,
+   "usd": -45.7356
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 73,
+   "usd": 8.4882
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 34,
+   "usd": -1.85
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 35,
+   "usd": 2.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 36,
+   "usd": -2.96
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 37,
+   "usd": -6.995
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 38,
+   "usd": -1.9
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 39,
+   "usd": -4.145
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 40,
+   "usd": -0.1
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 41,
+   "usd": -0.1
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 42,
+   "usd": -14.6
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 43,
+   "usd": -12.5
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 44,
+   "usd": -1.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 45,
+   "usd": -5.075
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 46,
+   "usd": -0.015
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 47,
+   "usd": -0.7
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 48,
+   "usd": -2.9
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 49,
+   "usd": -0.085
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 50,
+   "usd": -8.25
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 51,
+   "usd": -1.4
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 52,
+   "usd": -0.7
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 53,
+   "usd": 7.75
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 54,
+   "usd": -0.825
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 55,
+   "usd": -3.5
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 56,
+   "usd": -4.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 57,
+   "usd": 3.1
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 58,
+   "usd": -0.475
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 59,
+   "usd": -6.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 60,
+   "usd": -2.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 61,
+   "usd": -2.365
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 62,
+   "usd": -4.85
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 63,
+   "usd": -3.39
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 64,
+   "usd": -1.25
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 65,
+   "usd": 17.8
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 66,
+   "usd": 4.685
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 67,
+   "usd": 2.47
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 68,
+   "usd": -2.85
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 69,
+   "usd": -1.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 70,
+   "usd": 1.8
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 71,
+   "usd": 0.71
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 72,
+   "usd": 1.1
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 73,
+   "usd": 3.175
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 34,
+   "usd": 1.1
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 35,
+   "usd": 14.1
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 36,
+   "usd": 1.99
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 37,
+   "usd": 1.205
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 38,
+   "usd": 4.05
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 39,
+   "usd": 3.655
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 40,
+   "usd": 0.55
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 41,
+   "usd": 4.85
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 42,
+   "usd": 6.85
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 43,
+   "usd": 4.95
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 44,
+   "usd": -0.45
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 45,
+   "usd": 0.425
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 46,
+   "usd": 3.335
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 47,
+   "usd": 0.15
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 48,
+   "usd": 4.75
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 49,
+   "usd": 1.265
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 50,
+   "usd": 3.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 51,
+   "usd": 6.6
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 52,
+   "usd": 5.55
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 53,
+   "usd": 9.9
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 54,
+   "usd": 0.07
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 55,
+   "usd": 7.3
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 56,
+   "usd": 2.15
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 57,
+   "usd": 7.15
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 58,
+   "usd": 2.315
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 59,
+   "usd": 8.2
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 60,
+   "usd": 8.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 61,
+   "usd": 0.185
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 62,
+   "usd": -3.6
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 63,
+   "usd": 0.26
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 64,
+   "usd": 8.15
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 65,
+   "usd": 12.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 66,
+   "usd": 4.345
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 67,
+   "usd": 3.565
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 68,
+   "usd": 7.3
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 69,
+   "usd": 3.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 70,
+   "usd": 3.25
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 71,
+   "usd": 1.21
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 72,
+   "usd": 4.9
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 73,
+   "usd": 3.865
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 34,
+   "usd": 1.95
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 35,
+   "usd": -2.5
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 36,
+   "usd": 3.05
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 37,
+   "usd": 2.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 38,
+   "usd": 3.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 39,
+   "usd": 0.1
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 40,
+   "usd": -1.4
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 41,
+   "usd": -0.95
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 42,
+   "usd": -7.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 43,
+   "usd": -2.1
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 44,
+   "usd": 0.8
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 45,
+   "usd": -0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 46,
+   "usd": -2.3
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 47,
+   "usd": 1.25
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 48,
+   "usd": -1.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 49,
+   "usd": 0.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 50,
+   "usd": -3.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 51,
+   "usd": -4.7
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 52,
+   "usd": -3.5
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 53,
+   "usd": 4.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 54,
+   "usd": -1.55
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 55,
+   "usd": 0.95
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 56,
+   "usd": -1.45
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 57,
+   "usd": 0.8
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 58,
+   "usd": 0.45
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 59,
+   "usd": -3.2
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 60,
+   "usd": -1.15
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 61,
+   "usd": 2.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 62,
+   "usd": -4.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 63,
+   "usd": 0.1
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 64,
+   "usd": -1.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 65,
+   "usd": 2.75
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 66,
+   "usd": 2.7
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 67,
+   "usd": 1.1
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 68,
+   "usd": -1.9
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 69,
+   "usd": 2.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 70,
+   "usd": 2.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 71,
+   "usd": 3.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 72,
+   "usd": -4.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 73,
+   "usd": 2.7
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 34,
+   "usd": -1.515
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 35,
+   "usd": 3.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 36,
+   "usd": -2.955
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 37,
+   "usd": -6.605
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 38,
+   "usd": -2.9
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 39,
+   "usd": -4.25
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 40,
+   "usd": -0.1
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 41,
+   "usd": -0.4
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 42,
+   "usd": -6.55
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 43,
+   "usd": -11.8
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 44,
+   "usd": -1.695
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 45,
+   "usd": -5.06
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 46,
+   "usd": 0.09
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 47,
+   "usd": -0.5
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 48,
+   "usd": -1.2
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 49,
+   "usd": -0.14
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 50,
+   "usd": -4.55
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 51,
+   "usd": 1.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 52,
+   "usd": 0.4
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 53,
+   "usd": 7.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 54,
+   "usd": -0.9
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 55,
+   "usd": -2.9
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 56,
+   "usd": -3.75
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 57,
+   "usd": 2.9
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 58,
+   "usd": -0.475
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 59,
+   "usd": -9.05
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 60,
+   "usd": -1.15
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 61,
+   "usd": -2.365
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 62,
+   "usd": -3.45
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 63,
+   "usd": -3.39
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 64,
+   "usd": -2.2
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 65,
+   "usd": 15.45
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 66,
+   "usd": 4.665
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 67,
+   "usd": 2.52
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 68,
+   "usd": -2.9
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 69,
+   "usd": -1.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 70,
+   "usd": 1.5
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 71,
+   "usd": 0.66
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 72,
+   "usd": 1.7
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 73,
+   "usd": 3.235
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 34,
+   "usd": 1.95
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 35,
+   "usd": -2.5
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 36,
+   "usd": 3.05
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 37,
+   "usd": 2.25
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 38,
+   "usd": 3.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 39,
+   "usd": 0.1
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 40,
+   "usd": -1.4
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 41,
+   "usd": -0.95
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 42,
+   "usd": -7.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 43,
+   "usd": -2.1
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 44,
+   "usd": 0.8
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 45,
+   "usd": -0.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 46,
+   "usd": -2.3
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 47,
+   "usd": 1.25
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 48,
+   "usd": -1.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 49,
+   "usd": 0.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 50,
+   "usd": -3.4
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 51,
+   "usd": -4.7
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 52,
+   "usd": -3.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 53,
+   "usd": 4.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 54,
+   "usd": -2.2
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 55,
+   "usd": 0.95
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 56,
+   "usd": -1.45
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 57,
+   "usd": 0.8
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 58,
+   "usd": 0.45
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 59,
+   "usd": -3.2
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 60,
+   "usd": -1.15
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 61,
+   "usd": 2.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 62,
+   "usd": -4.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 63,
+   "usd": 0.1
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 64,
+   "usd": -1.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 65,
+   "usd": 2.95
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 66,
+   "usd": 2.55
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 67,
+   "usd": 1.25
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 68,
+   "usd": -2.0
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 69,
+   "usd": 2.7
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 70,
+   "usd": 2.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 71,
+   "usd": 3.35
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 72,
+   "usd": -4.65
+  },
+  {
+   "family": "BTC 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 73,
+   "usd": 2.7
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 34,
+   "usd": -4.1564
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 35,
+   "usd": -4.7156
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 36,
+   "usd": -9.4654
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 37,
+   "usd": -19.6354
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 38,
+   "usd": -3.936
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 39,
+   "usd": -14.7052
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 40,
+   "usd": -1.1799
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 41,
+   "usd": -4.824
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 42,
+   "usd": -17.1439
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 43,
+   "usd": -12.6631
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 44,
+   "usd": -2.2608
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 45,
+   "usd": -6.4911
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 46,
+   "usd": -8.5907
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 47,
+   "usd": -7.4222
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 48,
+   "usd": -7.5206
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 49,
+   "usd": -3.6572
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 50,
+   "usd": -14.2722
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 51,
+   "usd": -8.0011
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 52,
+   "usd": -2.6079
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 53,
+   "usd": -13.9269
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 54,
+   "usd": -2.8079
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 55,
+   "usd": -13.9349
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 56,
+   "usd": -4.9365
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 57,
+   "usd": -11.4255
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 58,
+   "usd": -4.1953
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 59,
+   "usd": -17.0879
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 60,
+   "usd": -14.0714
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 61,
+   "usd": -7.9301
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 62,
+   "usd": -9.8774
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 63,
+   "usd": -3.6454
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 64,
+   "usd": -10.3217
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 65,
+   "usd": -13.4571
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 66,
+   "usd": -4.2091
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 67,
+   "usd": -4.4665
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 68,
+   "usd": -4.769
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 69,
+   "usd": -12.6201
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 70,
+   "usd": -4.7783
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 71,
+   "usd": -0.4517
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 72,
+   "usd": -4.9726
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S1 Paper signal (MBOFormer h=100, top 10%)",
+   "contract": 73,
+   "usd": 0.1631
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 34,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 35,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 36,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 37,
+   "usd": -0.4892
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 38,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 39,
+   "usd": -3.7068
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 40,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 41,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 42,
+   "usd": 0.5712
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 43,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 44,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 45,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 46,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 47,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 48,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 49,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 50,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 51,
+   "usd": -0.2415
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 52,
+   "usd": 1.7453
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 53,
+   "usd": -1.6591
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 54,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 55,
+   "usd": -0.0144
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 56,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 57,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 58,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 59,
+   "usd": -1.0727
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 60,
+   "usd": -0.2604
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 61,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 62,
+   "usd": -0.7528
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 63,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 64,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 65,
+   "usd": 0.4314
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 66,
+   "usd": -0.2238
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 67,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 68,
+   "usd": 0.2609
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 69,
+   "usd": -2.7841
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 70,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 71,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 72,
+   "usd": 0.1264
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=10s",
+   "contract": 73,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 34,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 35,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 36,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 37,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 38,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 39,
+   "usd": -0.6137
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 40,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 41,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 42,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 43,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 44,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 45,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 46,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 47,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 48,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 49,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 50,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 51,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 52,
+   "usd": 1.6299
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 53,
+   "usd": -1.4592
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 54,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 55,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 56,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 57,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 58,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 59,
+   "usd": -0.5676
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 60,
+   "usd": 1.09
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 61,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 62,
+   "usd": -0.359
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 63,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 64,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 65,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 66,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 67,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 68,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 69,
+   "usd": -1.108
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 70,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 71,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 72,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=10s",
+   "contract": 73,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 34,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 35,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 36,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 37,
+   "usd": 0.2769
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 38,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 39,
+   "usd": -2.5278
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 40,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 41,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 42,
+   "usd": -0.3344
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 43,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 44,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 45,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 46,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 47,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 48,
+   "usd": -0.0274
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 49,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 50,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 51,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 52,
+   "usd": 2.8231
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 53,
+   "usd": -0.7665
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 54,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 55,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 56,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 57,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 58,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 59,
+   "usd": -3.5037
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 60,
+   "usd": -0.0239
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 61,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 62,
+   "usd": -0.4811
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 63,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 64,
+   "usd": -0.4114
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 65,
+   "usd": 0.0264
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 66,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 67,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 68,
+   "usd": -1.0992
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 69,
+   "usd": -0.3551
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 70,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 71,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 72,
+   "usd": 0.0821
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=10s",
+   "contract": 73,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 34,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 35,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 36,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 37,
+   "usd": -0.4199
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 38,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 39,
+   "usd": 1.4264
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 40,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 41,
+   "usd": -0.1992
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 42,
+   "usd": -1.1594
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 43,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 44,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 45,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 46,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 47,
+   "usd": -0.3845
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 48,
+   "usd": 0.475
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 49,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 50,
+   "usd": 0.2739
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 51,
+   "usd": 0.0673
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 52,
+   "usd": -0.9468
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 53,
+   "usd": 0.0416
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 54,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 55,
+   "usd": 0.2376
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 56,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 57,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 58,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 59,
+   "usd": -2.2748
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 60,
+   "usd": -1.3039
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 61,
+   "usd": 0.2268
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 62,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 63,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 64,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 65,
+   "usd": -0.8313
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 66,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 67,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 68,
+   "usd": 0.3023
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 69,
+   "usd": 1.1726
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 70,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 71,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 72,
+   "usd": -0.8035
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S2 Cost-aware MBOFusion + spot, H=30s",
+   "contract": 73,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 34,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 35,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 36,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 37,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 38,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 39,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 40,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 41,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 42,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 43,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 44,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 45,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 46,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 47,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 48,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 49,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 50,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 51,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 52,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 53,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 54,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 55,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 56,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 57,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 58,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 59,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 60,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 61,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 62,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 63,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 64,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 65,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 66,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 67,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 68,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 69,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 70,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 71,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 72,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S3 Cost-aware MBOFormer (events only), H=30s",
+   "contract": 73,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 34,
+   "usd": -0.083
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 35,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 36,
+   "usd": -0.168
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 37,
+   "usd": 1.5441
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 38,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 39,
+   "usd": -0.9101
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 40,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 41,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 42,
+   "usd": 0.4992
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 43,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 44,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 45,
+   "usd": -0.1957
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 46,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 47,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 48,
+   "usd": -0.0351
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 49,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 50,
+   "usd": -0.0083
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 51,
+   "usd": 0.0199
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 52,
+   "usd": -1.8733
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 53,
+   "usd": -0.4437
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 54,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 55,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 56,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 57,
+   "usd": -0.121
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 58,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 59,
+   "usd": -1.5729
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 60,
+   "usd": 0.0281
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 61,
+   "usd": -0.0603
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 62,
+   "usd": -0.6676
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 63,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 64,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 65,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 66,
+   "usd": -0.069
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 67,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 68,
+   "usd": -2.2397
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 69,
+   "usd": -2.2779
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 70,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 71,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 72,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S4 Cost-aware logistic + spot, H=30s",
+   "contract": 73,
+   "usd": -0.1286
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 34,
+   "usd": 7.7227
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 35,
+   "usd": 3.8331
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 36,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 37,
+   "usd": -13.6493
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 38,
+   "usd": 2.5628
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 39,
+   "usd": 11.5919
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 40,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 41,
+   "usd": -0.904
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 42,
+   "usd": -9.6055
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 43,
+   "usd": -47.3589
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 44,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 45,
+   "usd": 6.7594
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 46,
+   "usd": -10.7279
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 47,
+   "usd": -1.3789
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 48,
+   "usd": 0.244
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 49,
+   "usd": -3.6135
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 50,
+   "usd": 2.2628
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 51,
+   "usd": -6.2663
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 52,
+   "usd": -53.9792
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 53,
+   "usd": 55.5741
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 54,
+   "usd": -11.0129
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 55,
+   "usd": 6.249
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 56,
+   "usd": 1.7684
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 57,
+   "usd": 0.423
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 58,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 59,
+   "usd": 42.318
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 60,
+   "usd": 17.0733
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 61,
+   "usd": 20.5673
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 62,
+   "usd": -4.0778
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 63,
+   "usd": 7.7584
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 64,
+   "usd": -0.4796
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 65,
+   "usd": -13.988
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 66,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 67,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 68,
+   "usd": -30.1643
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 69,
+   "usd": 54.2365
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 70,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 71,
+   "usd": 0.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 72,
+   "usd": -1.0051
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S5 Fair value, taker in, hold to resolution",
+   "contract": 73,
+   "usd": 1.9653
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 34,
+   "usd": -6.2
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 35,
+   "usd": -7.16
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 36,
+   "usd": -7.16
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 37,
+   "usd": -23.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 38,
+   "usd": -3.005
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 39,
+   "usd": -22.2
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 40,
+   "usd": -4.605
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 41,
+   "usd": -5.45
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 42,
+   "usd": -15.55
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 43,
+   "usd": -13.8
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 44,
+   "usd": -2.13
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 45,
+   "usd": -8.915
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 46,
+   "usd": -2.8
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 47,
+   "usd": -3.495
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 48,
+   "usd": -9.51
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 49,
+   "usd": -1.89
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 50,
+   "usd": -7.515
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 51,
+   "usd": -11.4
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 52,
+   "usd": -11.24
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 53,
+   "usd": -6.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 54,
+   "usd": -4.975
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 55,
+   "usd": -9.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 56,
+   "usd": -5.55
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 57,
+   "usd": -12.05
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 58,
+   "usd": -2.455
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 59,
+   "usd": -26.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 60,
+   "usd": -19.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 61,
+   "usd": -8.705
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 62,
+   "usd": -13.8
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 63,
+   "usd": -4.75
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 64,
+   "usd": -10.5
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 65,
+   "usd": -6.75
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 66,
+   "usd": -0.355
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 67,
+   "usd": -3.8
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 68,
+   "usd": -13.9
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 69,
+   "usd": -13.7
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 70,
+   "usd": -2.6
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 71,
+   "usd": -0.51
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 72,
+   "usd": -6.85
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6a Maker, no gate",
+   "contract": 73,
+   "usd": -0.485
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 34,
+   "usd": -0.05
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 35,
+   "usd": -1.1
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 36,
+   "usd": -1.31
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 37,
+   "usd": -1.2
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 38,
+   "usd": -0.705
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 39,
+   "usd": 0.45
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 40,
+   "usd": -1.105
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 41,
+   "usd": -2.55
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 42,
+   "usd": -3.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 43,
+   "usd": -1.8
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 44,
+   "usd": 0.915
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 45,
+   "usd": -1.36
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 46,
+   "usd": 0.3
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 47,
+   "usd": -0.7
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 48,
+   "usd": -2.205
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 49,
+   "usd": 0.66
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 50,
+   "usd": 0.635
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 51,
+   "usd": -2.95
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 52,
+   "usd": -7.45
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 53,
+   "usd": 5.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 54,
+   "usd": 0.885
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 55,
+   "usd": 1.85
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 56,
+   "usd": -1.7
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 57,
+   "usd": 2.45
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 58,
+   "usd": -0.555
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 59,
+   "usd": 1.65
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 60,
+   "usd": -4.15
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 61,
+   "usd": 0.21
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 62,
+   "usd": -0.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 63,
+   "usd": -2.65
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 64,
+   "usd": 0.9
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 65,
+   "usd": 1.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 66,
+   "usd": 2.9
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 67,
+   "usd": 0.4
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 68,
+   "usd": -1.45
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 69,
+   "usd": -1.85
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 70,
+   "usd": 1.05
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 71,
+   "usd": 0.14
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 72,
+   "usd": -0.75
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6b Maker, paper MBOFormer gate",
+   "contract": 73,
+   "usd": 2.675
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 34,
+   "usd": 2.4
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 35,
+   "usd": 0.65
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 36,
+   "usd": 2.85
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 37,
+   "usd": -1.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 38,
+   "usd": -0.4
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 39,
+   "usd": 4.5
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 40,
+   "usd": 0.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 41,
+   "usd": -3.75
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 42,
+   "usd": -2.15
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 43,
+   "usd": -1.95
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 44,
+   "usd": -3.2
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 45,
+   "usd": 2.9
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 46,
+   "usd": -2.3
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 47,
+   "usd": -2.35
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 48,
+   "usd": -4.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 49,
+   "usd": -1.7
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 50,
+   "usd": -0.45
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 51,
+   "usd": -2.75
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 52,
+   "usd": -2.5
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 53,
+   "usd": 3.7
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 54,
+   "usd": -1.85
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 55,
+   "usd": -0.6
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 56,
+   "usd": 1.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 57,
+   "usd": 0.45
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 58,
+   "usd": 2.15
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 59,
+   "usd": 2.55
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 60,
+   "usd": 1.75
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 61,
+   "usd": 3.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 62,
+   "usd": 1.0
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 63,
+   "usd": 2.75
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 64,
+   "usd": 0.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 65,
+   "usd": -2.35
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 66,
+   "usd": 1.95
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 67,
+   "usd": -2.6
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 68,
+   "usd": -1.9
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 69,
+   "usd": 3.05
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 70,
+   "usd": 2.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 71,
+   "usd": 2.75
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 72,
+   "usd": -1.95
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6c Maker, fair-value gate",
+   "contract": 73,
+   "usd": 2.8
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 34,
+   "usd": -6.2
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 35,
+   "usd": -7.16
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 36,
+   "usd": -7.26
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 37,
+   "usd": -21.1
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 38,
+   "usd": -3.05
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 39,
+   "usd": -15.35
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 40,
+   "usd": -4.655
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 41,
+   "usd": -5.5
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 42,
+   "usd": -13.3
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 43,
+   "usd": -13.35
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 44,
+   "usd": -2.135
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 45,
+   "usd": -8.91
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 46,
+   "usd": -2.8
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 47,
+   "usd": -3.2
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 48,
+   "usd": -9.505
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 49,
+   "usd": -1.84
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 50,
+   "usd": -7.06
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 51,
+   "usd": -10.8
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 52,
+   "usd": -11.385
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 53,
+   "usd": -5.95
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 54,
+   "usd": -4.72
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 55,
+   "usd": -7.2
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 56,
+   "usd": -5.35
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 57,
+   "usd": -11.4
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 58,
+   "usd": -2.45
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 59,
+   "usd": -22.05
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 60,
+   "usd": -15.55
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 61,
+   "usd": -8.705
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 62,
+   "usd": -11.2
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 63,
+   "usd": -4.75
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 64,
+   "usd": -9.5
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 65,
+   "usd": -3.1
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 66,
+   "usd": -0.35
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 67,
+   "usd": -3.85
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 68,
+   "usd": -4.55
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 69,
+   "usd": -10.65
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 70,
+   "usd": -2.55
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 71,
+   "usd": -0.55
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 72,
+   "usd": -6.7
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6d Maker, cost-aware model gate",
+   "contract": 73,
+   "usd": -0.475
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 34,
+   "usd": 2.4
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 35,
+   "usd": 0.65
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 36,
+   "usd": 2.9
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 37,
+   "usd": -1.75
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 38,
+   "usd": -0.4
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 39,
+   "usd": 3.05
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 40,
+   "usd": 0.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 41,
+   "usd": -3.75
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 42,
+   "usd": -2.15
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 43,
+   "usd": -1.95
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 44,
+   "usd": -3.2
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 45,
+   "usd": 2.9
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 46,
+   "usd": -2.3
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 47,
+   "usd": -2.35
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 48,
+   "usd": -4.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 49,
+   "usd": -1.7
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 50,
+   "usd": -0.45
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 51,
+   "usd": -2.9
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 52,
+   "usd": -2.5
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 53,
+   "usd": 2.35
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 54,
+   "usd": -1.85
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 55,
+   "usd": -0.9
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 56,
+   "usd": 1.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 57,
+   "usd": 0.45
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 58,
+   "usd": 2.15
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 59,
+   "usd": 2.55
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 60,
+   "usd": 3.45
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 61,
+   "usd": 3.05
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 62,
+   "usd": 1.8
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 63,
+   "usd": 2.75
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 64,
+   "usd": 0.65
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 65,
+   "usd": -2.35
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 66,
+   "usd": 1.95
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 67,
+   "usd": -2.6
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 68,
+   "usd": -1.9
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 69,
+   "usd": 2.95
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 70,
+   "usd": 2.25
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 71,
+   "usd": 2.8
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 72,
+   "usd": -1.35
+  },
+  {
+   "family": "ETH 15m",
+   "strategy": "S6e Maker, fair value + cost-aware gate",
+   "contract": 73,
+   "usd": 2.8
+  }
+ ],
+ "maker_check": [
+  {
+   "family": "BTC 15m",
+   "test": "as tested",
+   "threshold": 0.4,
+   "usd": 4.0935,
+   "lo": 3.0135,
+   "hi": 5.3079,
+   "p": 0.0,
+   "profitable": "38/40",
+   "fills": 214.775,
+   "markout_c": 0.3842,
+   "rebate": 2.4595,
+   "usd_before_resolution": 4.0892,
+   "usd_resolution": 0.0043
+  },
+  {
+   "family": "BTC 15m",
+   "test": "latency 0.05 s",
+   "threshold": 0.4,
+   "usd": 3.5966,
+   "lo": 2.4342,
+   "hi": 4.9502,
+   "p": 0.0,
+   "profitable": "35/40",
+   "fills": 226.725,
+   "markout_c": 0.3046,
+   "rebate": 2.5665,
+   "usd_before_resolution": 3.5961,
+   "usd_resolution": 0.0006
+  },
+  {
+   "family": "BTC 15m",
+   "test": "latency 0.20 s",
+   "threshold": 0.4,
+   "usd": 3.0836,
+   "lo": 2.1732,
+   "hi": 4.0949,
+   "p": 0.0,
+   "profitable": "35/40",
+   "fills": 198.525,
+   "markout_c": 0.3215,
+   "rebate": 2.2876,
+   "usd_before_resolution": 3.0778,
+   "usd_resolution": 0.0058
+  },
+  {
+   "family": "BTC 15m",
+   "test": "latency 0.30 s",
+   "threshold": 0.4,
+   "usd": 2.5716,
+   "lo": 1.7491,
+   "hi": 3.4243,
+   "p": 0.0,
+   "profitable": "34/40",
+   "fills": 181.825,
+   "markout_c": 0.2761,
+   "rebate": 2.1043,
+   "usd_before_resolution": 2.5681,
+   "usd_resolution": 0.0035
+  },
+  {
+   "family": "BTC 15m",
+   "test": "strict fills (trade-through only)",
+   "threshold": 0.4,
+   "usd": -1.592,
+   "lo": -2.204,
+   "hi": -1.0348,
+   "p": 1.0,
+   "profitable": "11/40",
+   "fills": 41.85,
+   "markout_c": -0.7938,
+   "rebate": 0.4279,
+   "usd_before_resolution": -1.5509,
+   "usd_resolution": -0.0411
+  },
+  {
+   "family": "BTC 15m",
+   "test": "queue ahead x2",
+   "threshold": 0.4,
+   "usd": 0.8495,
+   "lo": 0.2678,
+   "hi": 1.4623,
+   "p": 0.0027,
+   "profitable": "29/40",
+   "fills": 113.65,
+   "markout_c": 0.2245,
+   "rebate": 1.2595,
+   "usd_before_resolution": 0.8602,
+   "usd_resolution": -0.0107
+  },
+  {
+   "family": "BTC 15m",
+   "test": "placebo: same quoting time, random moments",
+   "threshold": 0.4,
+   "usd": -2.9035,
+   "lo": -3.606,
+   "hi": -2.2411,
+   "p": 1.0,
+   "profitable": "2/40",
+   "fills": 76.025,
+   "markout_c": -0.8101,
+   "rebate": 0.8929,
+   "usd_before_resolution": -2.8719,
+   "usd_resolution": -0.0316
+  },
+  {
+   "family": "BTC 15m",
+   "test": "no gate",
+   "threshold": 0.4,
+   "usd": -1.3785,
+   "lo": -2.9166,
+   "hi": 0.2675,
+   "p": 0.9555,
+   "profitable": "10/40",
+   "fills": 440.925,
+   "markout_c": -0.0669,
+   "rebate": 5.4779,
+   "usd_before_resolution": -1.3863,
+   "usd_resolution": 0.0078
+  },
+  {
+   "family": "ETH 15m",
+   "test": "as tested",
+   "threshold": 0.3,
+   "usd": -0.413,
+   "lo": -1.0834,
+   "hi": 0.2415,
+   "p": 0.8908,
+   "profitable": "18/40",
+   "fills": 56.075,
+   "markout_c": 0.0435,
+   "rebate": 0.6023,
+   "usd_before_resolution": -0.399,
+   "usd_resolution": -0.014
+  },
+  {
+   "family": "ETH 15m",
+   "test": "latency 0.05 s",
+   "threshold": 0.3,
+   "usd": -0.116,
+   "lo": -0.7725,
+   "hi": 0.5891,
+   "p": 0.6325,
+   "profitable": "19/40",
+   "fills": 47.575,
+   "markout_c": 0.1389,
+   "rebate": 0.4906,
+   "usd_before_resolution": -0.1091,
+   "usd_resolution": -0.0069
+  },
+  {
+   "family": "ETH 15m",
+   "test": "latency 0.20 s",
+   "threshold": 0.3,
+   "usd": -0.4124,
+   "lo": -1.0373,
+   "hi": 0.2217,
+   "p": 0.897,
+   "profitable": "17/40",
+   "fills": 56.15,
+   "markout_c": -0.0725,
+   "rebate": 0.6003,
+   "usd_before_resolution": -0.4025,
+   "usd_resolution": -0.0099
+  },
+  {
+   "family": "ETH 15m",
+   "test": "latency 0.30 s",
+   "threshold": 0.3,
+   "usd": -0.2729,
+   "lo": -0.8278,
+   "hi": 0.2431,
+   "p": 0.848,
+   "profitable": "19/40",
+   "fills": 51.7,
+   "markout_c": -0.0465,
+   "rebate": 0.5498,
+   "usd_before_resolution": -0.2704,
+   "usd_resolution": -0.0024
+  },
+  {
+   "family": "ETH 15m",
+   "test": "strict fills (trade-through only)",
+   "threshold": 0.3,
+   "usd": -1.4641,
+   "lo": -2.1145,
+   "hi": -0.8512,
+   "p": 1.0,
+   "profitable": "9/40",
+   "fills": 31.075,
+   "markout_c": -0.8697,
+   "rebate": 0.3769,
+   "usd_before_resolution": -1.4536,
+   "usd_resolution": -0.0105
+  },
+  {
+   "family": "ETH 15m",
+   "test": "queue ahead x2",
+   "threshold": 0.3,
+   "usd": -0.9533,
+   "lo": -1.6677,
+   "hi": -0.2971,
+   "p": 0.9982,
+   "profitable": "12/40",
+   "fills": 43.225,
+   "markout_c": -0.2214,
+   "rebate": 0.4803,
+   "usd_before_resolution": -0.9419,
+   "usd_resolution": -0.0113
+  },
+  {
+   "family": "ETH 15m",
+   "test": "placebo: same quoting time, random moments",
+   "threshold": 0.3,
+   "usd": -2.4634,
+   "lo": -3.2762,
+   "hi": -1.7387,
+   "p": 1.0,
+   "profitable": "6/40",
+   "fills": 58.25,
+   "markout_c": -1.1051,
+   "rebate": 0.7598,
+   "usd_before_resolution": -2.4489,
+   "usd_resolution": -0.0145
+  },
+  {
+   "family": "ETH 15m",
+   "test": "no gate",
+   "threshold": 0.3,
+   "usd": -8.4878,
+   "lo": -10.5274,
+   "hi": -6.6903,
+   "p": 1.0,
+   "profitable": "0/40",
+   "fills": 254.075,
+   "markout_c": -0.6383,
+   "rebate": 3.3191,
+   "usd_before_resolution": -8.4598,
+   "usd_resolution": -0.028
+  }
+ ],
+ "maker_summary": [
+  {
+   "family": "BTC 15m",
+   "fills": 211.685,
+   "markout_c": 0.2504,
+   "rebate": 2.6176
+  },
+  {
+   "family": "ETH 15m",
+   "fills": 110.405,
+   "markout_c": -0.335,
+   "rebate": 1.4309
+  }
+ ],
+ "verdict": {
+  "PASS": false,
+  "passing": [],
+  "spec": {
+   "lag_s": 0.25,
+   "maker_lag_s": 0.1,
+   "size": 5,
+   "fee": "0.07*p*(1-p)",
+   "test_contracts": 40
+  }
+ },
+ "calibration": [
+  {
+   "family": "BTC 15m",
+   "bucket": "last minute",
+   "n": 15166,
+   "contracts": 40,
+   "brier_market": 0.01608598324033793,
+   "brier_fv": 0.03046371228992939,
+   "gap_c": 7.269190770029523
+  },
+  {
+   "family": "BTC 15m",
+   "bucket": "1-3 min left",
+   "n": 113642,
+   "contracts": 40,
+   "brier_market": 0.09121641571471462,
+   "brier_fv": 0.16014103591442108,
+   "gap_c": 11.882766529102314
+  },
+  {
+   "family": "BTC 15m",
+   "bucket": "3-7 min left",
+   "n": 288461,
+   "contracts": 40,
+   "brier_market": 0.16755837814929134,
+   "brier_fv": 0.21029789745807648,
+   "gap_c": 7.691582246674747
+  },
+  {
+   "family": "BTC 15m",
+   "bucket": "7-15 min left",
+   "n": 658353,
+   "contracts": 40,
+   "brier_market": 0.19146096333130502,
+   "brier_fv": 0.20709311962127686,
+   "gap_c": 6.589810781814139
+  },
+  {
+   "family": "ETH 15m",
+   "bucket": "last minute",
+   "n": 7131,
+   "contracts": 40,
+   "brier_market": 0.07608373052508997,
+   "brier_fv": 0.12023010104894638,
+   "gap_c": 16.47980075609842
+  },
+  {
+   "family": "ETH 15m",
+   "bucket": "1-3 min left",
+   "n": 45692,
+   "contracts": 40,
+   "brier_market": 0.0875371692708869,
+   "brier_fv": 0.11642926931381226,
+   "gap_c": 7.20657761780297
+  },
+  {
+   "family": "ETH 15m",
+   "bucket": "3-7 min left",
+   "n": 132059,
+   "contracts": 40,
+   "brier_market": 0.12237408289604394,
+   "brier_fv": 0.12193196266889572,
+   "gap_c": 5.671549978935969
+  },
+  {
+   "family": "ETH 15m",
+   "bucket": "7-15 min left",
+   "n": 322026,
+   "contracts": 40,
+   "brier_market": 0.19068503378385243,
+   "brier_fv": 0.19116254150867462,
+   "gap_c": 5.29528291285992
+  }
+ ],
+ "spot_check": {
+  "BTC 15m": {
+   "spot_resolution_agreement": 0.9444444444444444,
+   "n": 72
+  },
+  "ETH 15m": {
+   "spot_resolution_agreement": 0.9014084507042254,
+   "n": 71
+  }
+ },
+ "contracts": {
+  "BTC 15m": {
+   "test": 40,
+   "train": 24,
+   "val": 10
+  },
+  "ETH 15m": {
+   "test": 40,
+   "train": 24,
+   "val": 10
+  },
+  "Sports & esports": {
+   "train": 12,
+   "test": 5,
+   "val": 3
+  }
+ }
+}

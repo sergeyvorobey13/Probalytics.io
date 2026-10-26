@@ -1,0 +1,1041 @@
+family,strategy,contract,usd
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",34,-11.276065332231509
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",35,-24.75568519430115
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",36,-15.317439160335919
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",37,-18.254918984370203
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",38,-13.33708187978873
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",39,-18.359810656758274
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",40,-5.931346231837985
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",41,-10.91123325365646
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",42,-33.01537392134755
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",43,-31.71610658663984
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",44,-8.86093987181415
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",45,-13.331077455790261
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",46,-19.427464929018004
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",47,-12.133007391916642
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",48,-21.422738715942952
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",49,-6.270249747738241
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",50,-21.392470739989257
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",51,-23.16585933625599
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",52,-7.701671170434878
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",53,-21.83711553411941
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",54,-6.6523706089167325
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",55,-18.377741301719396
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",56,-11.272152256317478
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",57,-6.755419803829783
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",58,-9.649909557912641
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",59,-22.756350108546716
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",60,-17.30288872291206
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",61,-13.148865659383688
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",62,-13.625650132226191
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",63,-10.383889386510162
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",64,-15.984012081595516
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",65,-13.802234908487394
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",66,-9.258366287080161
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",67,-7.707186430767514
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",68,-8.030967114251142
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",69,-14.905002586521778
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",70,-5.672584301513624
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",71,-1.7063651767021408
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",72,-5.567663375224942
+BTC 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",73,-2.488022838032003
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",34,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",35,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",36,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",37,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",38,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",39,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",40,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",41,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",42,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",43,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",44,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",45,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",46,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",47,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",48,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",49,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",50,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",51,-2.182824839699268
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",52,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",53,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",54,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",55,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",56,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",57,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",58,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",59,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",60,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",61,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",62,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",63,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",64,1.94778998816669
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",65,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",66,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",67,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",68,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",69,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",70,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",71,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",72,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=10s",73,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",34,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",35,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",36,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",37,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",38,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",39,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",40,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",41,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",42,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",43,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",44,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",45,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",46,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",47,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",48,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",49,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",50,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",51,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",52,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",53,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",54,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",55,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",56,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",57,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",58,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",59,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",60,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",61,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",62,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",63,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",64,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",65,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",66,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",67,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",68,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",69,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",70,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",71,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",72,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=10s",73,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",34,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",35,-0.28499949014186793
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",36,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",37,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",38,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",39,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",40,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",41,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",42,0.03228010675430307
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",43,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",44,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",45,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",46,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",47,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",48,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",49,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",50,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",51,1.4085697470831884
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",52,-0.03480998930573427
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",53,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",54,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",55,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",56,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",57,-0.6726199709820746
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",58,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",59,-2.0008848780596256
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",60,0.16595000516176253
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",61,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",62,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",63,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",64,-1.500845037369728
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",65,-2.301835161783695
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",66,-0.09290684749330917
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",67,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",68,0.33017997074842453
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",69,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",70,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",71,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",72,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=10s",73,-0.032782715349197036
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",34,-0.026467392271660554
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",35,-0.1071700519490224
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",36,0.04854991431236292
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",37,-0.00018287839360038306
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",38,-0.467284965839386
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",39,0.24373814721860257
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",40,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",41,0.07613507871866353
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",42,2.9978498831629756
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",43,0.47700997129619116
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",44,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",45,-0.06229244304909649
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",46,0.10761485810041443
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",47,0.041395160596370856
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",48,1.1553750185966496
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",49,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",50,-0.13184967079162516
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",51,-6.380964779827593
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",52,2.009145417075158
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",53,-0.23768002880893643
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",54,0.10792189555806518
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",55,-1.201154954762458
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",56,0.6467698353934292
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",57,-0.014734608039566766
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",58,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",59,-3.510100284421442
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",60,-1.298905189545154
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",61,0.03376624765996965
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",62,-3.92647992141962
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",63,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",64,-0.27959084332706896
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",65,-3.0411848042891916
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",66,-0.12589044928072876
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",67,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",68,-0.661419968562126
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",69,0.21815502135574816
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",70,0.12007499728091059
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",71,0.0
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",72,1.3853501741528518
+BTC 15m,"S2 Cost-aware MBOFusion + spot, H=30s",73,-0.22641705525813038
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",34,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",35,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",36,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",37,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",38,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",39,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",40,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",41,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",42,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",43,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",44,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",45,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",46,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",47,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",48,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",49,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",50,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",51,-0.9917751224994659
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",52,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",53,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",54,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",55,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",56,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",57,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",58,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",59,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",60,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",61,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",62,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",63,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",64,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",65,-0.871015019596219
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",66,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",67,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",68,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",69,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",70,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",71,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",72,0.0
+BTC 15m,"S3 Cost-aware MBOFormer (events only), H=30s",73,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",34,-0.024320660331630432
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",35,0.9363650195097929
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",36,-0.030237679576634237
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",37,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",38,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",39,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",40,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",41,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",42,0.6991150825119019
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",43,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",44,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",45,-0.07384584861054294
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",46,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",47,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",48,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",49,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",50,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",51,0.6973543558305755
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",52,-0.15152476743459686
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",53,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",54,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",55,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",56,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",57,-1.0692598881030082
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",58,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",59,0.37829512728929543
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",60,0.2698702157783512
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",61,-0.032503743169640845
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",62,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",63,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",64,-3.036379834453463
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",65,-1.8639150872445107
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",66,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",67,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",68,-0.4586200106191636
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",69,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",70,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",71,0.0
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",72,1.0238051178526884
+BTC 15m,"S4 Cost-aware logistic + spot, H=30s",73,-0.24029212831942642
+BTC 15m,"S5 Fair value, taker in, hold to resolution",34,19.898090333435537
+BTC 15m,"S5 Fair value, taker in, hold to resolution",35,-55.57676528796613
+BTC 15m,"S5 Fair value, taker in, hold to resolution",36,17.16311007292509
+BTC 15m,"S5 Fair value, taker in, hold to resolution",37,27.29657780036595
+BTC 15m,"S5 Fair value, taker in, hold to resolution",38,12.09594982318878
+BTC 15m,"S5 Fair value, taker in, hold to resolution",39,8.722004978204968
+BTC 15m,"S5 Fair value, taker in, hold to resolution",40,5.930674918872119
+BTC 15m,"S5 Fair value, taker in, hold to resolution",41,-3.651014568493365
+BTC 15m,"S5 Fair value, taker in, hold to resolution",42,-71.63911958145827
+BTC 15m,"S5 Fair value, taker in, hold to resolution",43,-71.80170962273046
+BTC 15m,"S5 Fair value, taker in, hold to resolution",44,12.402950035202503
+BTC 15m,"S5 Fair value, taker in, hold to resolution",45,13.095435187819005
+BTC 15m,"S5 Fair value, taker in, hold to resolution",46,-25.63020483223915
+BTC 15m,"S5 Fair value, taker in, hold to resolution",47,3.2508847047591214
+BTC 15m,"S5 Fair value, taker in, hold to resolution",48,-14.379560044946668
+BTC 15m,"S5 Fair value, taker in, hold to resolution",49,0.34057993218868954
+BTC 15m,"S5 Fair value, taker in, hold to resolution",50,-12.31234490200758
+BTC 15m,"S5 Fair value, taker in, hold to resolution",51,-50.922279647113086
+BTC 15m,"S5 Fair value, taker in, hold to resolution",52,-33.32509982126355
+BTC 15m,"S5 Fair value, taker in, hold to resolution",53,3.613819903694393
+BTC 15m,"S5 Fair value, taker in, hold to resolution",54,-14.471637767932766
+BTC 15m,"S5 Fair value, taker in, hold to resolution",55,4.363700116950275
+BTC 15m,"S5 Fair value, taker in, hold to resolution",56,21.25698987532616
+BTC 15m,"S5 Fair value, taker in, hold to resolution",57,-32.85444504950226
+BTC 15m,"S5 Fair value, taker in, hold to resolution",58,-4.659604759335964
+BTC 15m,"S5 Fair value, taker in, hold to resolution",59,8.738669483141898
+BTC 15m,"S5 Fair value, taker in, hold to resolution",60,3.8164450296390076
+BTC 15m,"S5 Fair value, taker in, hold to resolution",61,27.4830352958703
+BTC 15m,"S5 Fair value, taker in, hold to resolution",62,-21.93145004710853
+BTC 15m,"S5 Fair value, taker in, hold to resolution",63,1.3455352479630722
+BTC 15m,"S5 Fair value, taker in, hold to resolution",64,-14.36177985571444
+BTC 15m,"S5 Fair value, taker in, hold to resolution",65,-21.684709736912477
+BTC 15m,"S5 Fair value, taker in, hold to resolution",66,13.664594916841686
+BTC 15m,"S5 Fair value, taker in, hold to resolution",67,-8.213160184372367
+BTC 15m,"S5 Fair value, taker in, hold to resolution",68,-36.01967492154502
+BTC 15m,"S5 Fair value, taker in, hold to resolution",69,34.79510983838081
+BTC 15m,"S5 Fair value, taker in, hold to resolution",70,19.68841006901875
+BTC 15m,"S5 Fair value, taker in, hold to resolution",71,12.267829990191458
+BTC 15m,"S5 Fair value, taker in, hold to resolution",72,-45.73560460675179
+BTC 15m,"S5 Fair value, taker in, hold to resolution",73,8.488244537477495
+BTC 15m,"S6a Maker, no gate",34,-1.8499999999999908
+BTC 15m,"S6a Maker, no gate",35,2.349999999999996
+BTC 15m,"S6a Maker, no gate",36,-2.959999999999992
+BTC 15m,"S6a Maker, no gate",37,-6.994999999999997
+BTC 15m,"S6a Maker, no gate",38,-1.9000000000000037
+BTC 15m,"S6a Maker, no gate",39,-4.144999999999996
+BTC 15m,"S6a Maker, no gate",40,-0.09999999999999887
+BTC 15m,"S6a Maker, no gate",41,-0.09999999999998543
+BTC 15m,"S6a Maker, no gate",42,-14.600000000000001
+BTC 15m,"S6a Maker, no gate",43,-12.499999999999995
+BTC 15m,"S6a Maker, no gate",44,-1.6499999999999966
+BTC 15m,"S6a Maker, no gate",45,-5.075000000000003
+BTC 15m,"S6a Maker, no gate",46,-0.014999999999987246
+BTC 15m,"S6a Maker, no gate",47,-0.7000000000000028
+BTC 15m,"S6a Maker, no gate",48,-2.8999999999999977
+BTC 15m,"S6a Maker, no gate",49,-0.08499999999999908
+BTC 15m,"S6a Maker, no gate",50,-8.249999999999993
+BTC 15m,"S6a Maker, no gate",51,-1.4000000000000066
+BTC 15m,"S6a Maker, no gate",52,-0.699999999999994
+BTC 15m,"S6a Maker, no gate",53,7.750000000000006
+BTC 15m,"S6a Maker, no gate",54,-0.825000000000002
+BTC 15m,"S6a Maker, no gate",55,-3.5
+BTC 15m,"S6a Maker, no gate",56,-4.649999999999996
+BTC 15m,"S6a Maker, no gate",57,3.0999999999999988
+BTC 15m,"S6a Maker, no gate",58,-0.4749999999999971
+BTC 15m,"S6a Maker, no gate",59,-6.349999999999995
+BTC 15m,"S6a Maker, no gate",60,-2.0000000000000018
+BTC 15m,"S6a Maker, no gate",61,-2.364999999999993
+BTC 15m,"S6a Maker, no gate",62,-4.84999999999999
+BTC 15m,"S6a Maker, no gate",63,-3.3900000000000015
+BTC 15m,"S6a Maker, no gate",64,-1.250000000000007
+BTC 15m,"S6a Maker, no gate",65,17.80000000000007
+BTC 15m,"S6a Maker, no gate",66,4.685000000000009
+BTC 15m,"S6a Maker, no gate",67,2.470000000000002
+BTC 15m,"S6a Maker, no gate",68,-2.8500000000000014
+BTC 15m,"S6a Maker, no gate",69,-1.6499999999999957
+BTC 15m,"S6a Maker, no gate",70,1.799999999999997
+BTC 15m,"S6a Maker, no gate",71,0.7100000000000009
+BTC 15m,"S6a Maker, no gate",72,1.1000000000000023
+BTC 15m,"S6a Maker, no gate",73,3.1750000000000043
+BTC 15m,"S6b Maker, paper MBOFormer gate",34,1.1000000000000005
+BTC 15m,"S6b Maker, paper MBOFormer gate",35,14.09999999999998
+BTC 15m,"S6b Maker, paper MBOFormer gate",36,1.9900000000000029
+BTC 15m,"S6b Maker, paper MBOFormer gate",37,1.205
+BTC 15m,"S6b Maker, paper MBOFormer gate",38,4.05
+BTC 15m,"S6b Maker, paper MBOFormer gate",39,3.655000000000001
+BTC 15m,"S6b Maker, paper MBOFormer gate",40,0.5500000000000009
+BTC 15m,"S6b Maker, paper MBOFormer gate",41,4.850000000000012
+BTC 15m,"S6b Maker, paper MBOFormer gate",42,6.849999999999998
+BTC 15m,"S6b Maker, paper MBOFormer gate",43,4.949999999999999
+BTC 15m,"S6b Maker, paper MBOFormer gate",44,-0.44999999999999996
+BTC 15m,"S6b Maker, paper MBOFormer gate",45,0.42499999999999716
+BTC 15m,"S6b Maker, paper MBOFormer gate",46,3.3350000000000044
+BTC 15m,"S6b Maker, paper MBOFormer gate",47,0.1499999999999977
+BTC 15m,"S6b Maker, paper MBOFormer gate",48,4.7500000000000036
+BTC 15m,"S6b Maker, paper MBOFormer gate",49,1.2649999999999997
+BTC 15m,"S6b Maker, paper MBOFormer gate",50,3.650000000000003
+BTC 15m,"S6b Maker, paper MBOFormer gate",51,6.6
+BTC 15m,"S6b Maker, paper MBOFormer gate",52,5.550000000000001
+BTC 15m,"S6b Maker, paper MBOFormer gate",53,9.899999999999997
+BTC 15m,"S6b Maker, paper MBOFormer gate",54,0.06999999999999965
+BTC 15m,"S6b Maker, paper MBOFormer gate",55,7.3000000000000025
+BTC 15m,"S6b Maker, paper MBOFormer gate",56,2.1500000000000004
+BTC 15m,"S6b Maker, paper MBOFormer gate",57,7.150000000000006
+BTC 15m,"S6b Maker, paper MBOFormer gate",58,2.315000000000002
+BTC 15m,"S6b Maker, paper MBOFormer gate",59,8.200000000000006
+BTC 15m,"S6b Maker, paper MBOFormer gate",60,8.650000000000002
+BTC 15m,"S6b Maker, paper MBOFormer gate",61,0.18500000000000671
+BTC 15m,"S6b Maker, paper MBOFormer gate",62,-3.6000000000000028
+BTC 15m,"S6b Maker, paper MBOFormer gate",63,0.25999999999999973
+BTC 15m,"S6b Maker, paper MBOFormer gate",64,8.149999999999997
+BTC 15m,"S6b Maker, paper MBOFormer gate",65,12.350000000000014
+BTC 15m,"S6b Maker, paper MBOFormer gate",66,4.345000000000009
+BTC 15m,"S6b Maker, paper MBOFormer gate",67,3.565
+BTC 15m,"S6b Maker, paper MBOFormer gate",68,7.299999999999996
+BTC 15m,"S6b Maker, paper MBOFormer gate",69,3.65
+BTC 15m,"S6b Maker, paper MBOFormer gate",70,3.249999999999998
+BTC 15m,"S6b Maker, paper MBOFormer gate",71,1.2100000000000009
+BTC 15m,"S6b Maker, paper MBOFormer gate",72,4.900000000000002
+BTC 15m,"S6b Maker, paper MBOFormer gate",73,3.8649999999999958
+BTC 15m,"S6c Maker, fair-value gate",34,1.950000000000001
+BTC 15m,"S6c Maker, fair-value gate",35,-2.4999999999999996
+BTC 15m,"S6c Maker, fair-value gate",36,3.0500000000000007
+BTC 15m,"S6c Maker, fair-value gate",37,2.6500000000000004
+BTC 15m,"S6c Maker, fair-value gate",38,3.000000000000001
+BTC 15m,"S6c Maker, fair-value gate",39,0.09999999999999876
+BTC 15m,"S6c Maker, fair-value gate",40,-1.3999999999999988
+BTC 15m,"S6c Maker, fair-value gate",41,-0.9500000000000011
+BTC 15m,"S6c Maker, fair-value gate",42,-7.0
+BTC 15m,"S6c Maker, fair-value gate",43,-2.0999999999999996
+BTC 15m,"S6c Maker, fair-value gate",44,0.7999999999999996
+BTC 15m,"S6c Maker, fair-value gate",45,-8.881784197001252e-16
+BTC 15m,"S6c Maker, fair-value gate",46,-2.3
+BTC 15m,"S6c Maker, fair-value gate",47,1.2500000000000009
+BTC 15m,"S6c Maker, fair-value gate",48,-1.0
+BTC 15m,"S6c Maker, fair-value gate",49,0.3500000000000001
+BTC 15m,"S6c Maker, fair-value gate",50,-3.3499999999999974
+BTC 15m,"S6c Maker, fair-value gate",51,-4.699999999999999
+BTC 15m,"S6c Maker, fair-value gate",52,-3.4999999999999982
+BTC 15m,"S6c Maker, fair-value gate",53,4.649999999999998
+BTC 15m,"S6c Maker, fair-value gate",54,-1.5500000000000003
+BTC 15m,"S6c Maker, fair-value gate",55,0.9500000000000011
+BTC 15m,"S6c Maker, fair-value gate",56,-1.4500000000000002
+BTC 15m,"S6c Maker, fair-value gate",57,0.8000000000000003
+BTC 15m,"S6c Maker, fair-value gate",58,0.44999999999999973
+BTC 15m,"S6c Maker, fair-value gate",59,-3.200000000000002
+BTC 15m,"S6c Maker, fair-value gate",60,-1.1500000000000004
+BTC 15m,"S6c Maker, fair-value gate",61,2.6500000000000004
+BTC 15m,"S6c Maker, fair-value gate",62,-4.35
+BTC 15m,"S6c Maker, fair-value gate",63,0.10000000000000098
+BTC 15m,"S6c Maker, fair-value gate",64,-1.6499999999999964
+BTC 15m,"S6c Maker, fair-value gate",65,2.7499999999999996
+BTC 15m,"S6c Maker, fair-value gate",66,2.7
+BTC 15m,"S6c Maker, fair-value gate",67,1.1000000000000003
+BTC 15m,"S6c Maker, fair-value gate",68,-1.9
+BTC 15m,"S6c Maker, fair-value gate",69,2.6500000000000004
+BTC 15m,"S6c Maker, fair-value gate",70,2.3499999999999996
+BTC 15m,"S6c Maker, fair-value gate",71,3.350000000000001
+BTC 15m,"S6c Maker, fair-value gate",72,-4.6499999999999995
+BTC 15m,"S6c Maker, fair-value gate",73,2.6999999999999997
+BTC 15m,"S6d Maker, cost-aware model gate",34,-1.5149999999999917
+BTC 15m,"S6d Maker, cost-aware model gate",35,3.349999999999996
+BTC 15m,"S6d Maker, cost-aware model gate",36,-2.954999999999992
+BTC 15m,"S6d Maker, cost-aware model gate",37,-6.605
+BTC 15m,"S6d Maker, cost-aware model gate",38,-2.900000000000004
+BTC 15m,"S6d Maker, cost-aware model gate",39,-4.25
+BTC 15m,"S6d Maker, cost-aware model gate",40,-0.09999999999999887
+BTC 15m,"S6d Maker, cost-aware model gate",41,-0.3999999999999888
+BTC 15m,"S6d Maker, cost-aware model gate",42,-6.550000000000004
+BTC 15m,"S6d Maker, cost-aware model gate",43,-11.799999999999994
+BTC 15m,"S6d Maker, cost-aware model gate",44,-1.694999999999997
+BTC 15m,"S6d Maker, cost-aware model gate",45,-5.060000000000002
+BTC 15m,"S6d Maker, cost-aware model gate",46,0.09000000000001229
+BTC 15m,"S6d Maker, cost-aware model gate",47,-0.5000000000000009
+BTC 15m,"S6d Maker, cost-aware model gate",48,-1.1999999999999984
+BTC 15m,"S6d Maker, cost-aware model gate",49,-0.13999999999999907
+BTC 15m,"S6d Maker, cost-aware model gate",50,-4.549999999999988
+BTC 15m,"S6d Maker, cost-aware model gate",51,1.349999999999997
+BTC 15m,"S6d Maker, cost-aware model gate",52,0.40000000000000036
+BTC 15m,"S6d Maker, cost-aware model gate",53,7.650000000000007
+BTC 15m,"S6d Maker, cost-aware model gate",54,-0.9000000000000021
+BTC 15m,"S6d Maker, cost-aware model gate",55,-2.9000000000000012
+BTC 15m,"S6d Maker, cost-aware model gate",56,-3.7499999999999947
+BTC 15m,"S6d Maker, cost-aware model gate",57,2.8999999999999986
+BTC 15m,"S6d Maker, cost-aware model gate",58,-0.4749999999999971
+BTC 15m,"S6d Maker, cost-aware model gate",59,-9.050000000000002
+BTC 15m,"S6d Maker, cost-aware model gate",60,-1.1500000000000012
+BTC 15m,"S6d Maker, cost-aware model gate",61,-2.364999999999993
+BTC 15m,"S6d Maker, cost-aware model gate",62,-3.4499999999999966
+BTC 15m,"S6d Maker, cost-aware model gate",63,-3.3900000000000015
+BTC 15m,"S6d Maker, cost-aware model gate",64,-2.2000000000000033
+BTC 15m,"S6d Maker, cost-aware model gate",65,15.450000000000045
+BTC 15m,"S6d Maker, cost-aware model gate",66,4.665000000000009
+BTC 15m,"S6d Maker, cost-aware model gate",67,2.520000000000002
+BTC 15m,"S6d Maker, cost-aware model gate",68,-2.899999999999999
+BTC 15m,"S6d Maker, cost-aware model gate",69,-1.3499999999999972
+BTC 15m,"S6d Maker, cost-aware model gate",70,1.4999999999999967
+BTC 15m,"S6d Maker, cost-aware model gate",71,0.6600000000000008
+BTC 15m,"S6d Maker, cost-aware model gate",72,1.6999999999999962
+BTC 15m,"S6d Maker, cost-aware model gate",73,3.2350000000000048
+BTC 15m,"S6e Maker, fair value + cost-aware gate",34,1.950000000000001
+BTC 15m,"S6e Maker, fair value + cost-aware gate",35,-2.4999999999999996
+BTC 15m,"S6e Maker, fair value + cost-aware gate",36,3.0500000000000007
+BTC 15m,"S6e Maker, fair value + cost-aware gate",37,2.25
+BTC 15m,"S6e Maker, fair value + cost-aware gate",38,3.000000000000001
+BTC 15m,"S6e Maker, fair value + cost-aware gate",39,0.09999999999999876
+BTC 15m,"S6e Maker, fair value + cost-aware gate",40,-1.3999999999999988
+BTC 15m,"S6e Maker, fair value + cost-aware gate",41,-0.9500000000000011
+BTC 15m,"S6e Maker, fair value + cost-aware gate",42,-7.0
+BTC 15m,"S6e Maker, fair value + cost-aware gate",43,-2.0999999999999996
+BTC 15m,"S6e Maker, fair value + cost-aware gate",44,0.7999999999999996
+BTC 15m,"S6e Maker, fair value + cost-aware gate",45,-8.881784197001252e-16
+BTC 15m,"S6e Maker, fair value + cost-aware gate",46,-2.3
+BTC 15m,"S6e Maker, fair value + cost-aware gate",47,1.2500000000000009
+BTC 15m,"S6e Maker, fair value + cost-aware gate",48,-1.3500000000000014
+BTC 15m,"S6e Maker, fair value + cost-aware gate",49,0.3500000000000001
+BTC 15m,"S6e Maker, fair value + cost-aware gate",50,-3.399999999999998
+BTC 15m,"S6e Maker, fair value + cost-aware gate",51,-4.699999999999999
+BTC 15m,"S6e Maker, fair value + cost-aware gate",52,-3.349999999999998
+BTC 15m,"S6e Maker, fair value + cost-aware gate",53,4.649999999999998
+BTC 15m,"S6e Maker, fair value + cost-aware gate",54,-2.2
+BTC 15m,"S6e Maker, fair value + cost-aware gate",55,0.9500000000000011
+BTC 15m,"S6e Maker, fair value + cost-aware gate",56,-1.4500000000000002
+BTC 15m,"S6e Maker, fair value + cost-aware gate",57,0.8000000000000003
+BTC 15m,"S6e Maker, fair value + cost-aware gate",58,0.44999999999999973
+BTC 15m,"S6e Maker, fair value + cost-aware gate",59,-3.200000000000002
+BTC 15m,"S6e Maker, fair value + cost-aware gate",60,-1.1500000000000004
+BTC 15m,"S6e Maker, fair value + cost-aware gate",61,2.6500000000000004
+BTC 15m,"S6e Maker, fair value + cost-aware gate",62,-4.35
+BTC 15m,"S6e Maker, fair value + cost-aware gate",63,0.10000000000000098
+BTC 15m,"S6e Maker, fair value + cost-aware gate",64,-1.6499999999999964
+BTC 15m,"S6e Maker, fair value + cost-aware gate",65,2.9499999999999993
+BTC 15m,"S6e Maker, fair value + cost-aware gate",66,2.55
+BTC 15m,"S6e Maker, fair value + cost-aware gate",67,1.2500000000000002
+BTC 15m,"S6e Maker, fair value + cost-aware gate",68,-2.0
+BTC 15m,"S6e Maker, fair value + cost-aware gate",69,2.7
+BTC 15m,"S6e Maker, fair value + cost-aware gate",70,2.3499999999999996
+BTC 15m,"S6e Maker, fair value + cost-aware gate",71,3.350000000000001
+BTC 15m,"S6e Maker, fair value + cost-aware gate",72,-4.6499999999999995
+BTC 15m,"S6e Maker, fair value + cost-aware gate",73,2.6999999999999997
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",34,-4.156380276198383
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",35,-4.71558167416134
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",36,-9.465430568135973
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",37,-19.63541350727438
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",38,-3.936045503782033
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",39,-14.705234665453105
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",40,-1.1799498655527825
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",41,-4.82398532325706
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",42,-17.143941613122607
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",43,-12.663115492196974
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",44,-2.2608199506032465
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",45,-6.491125097528098
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",46,-8.590664699939579
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",47,-7.422238668481199
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",48,-7.520565280918586
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",49,-3.657249518945813
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",50,-14.272176875483979
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",51,-8.001104163107367
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",52,-2.6078812540458656
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",53,-13.926906650827519
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",54,-2.807915277532338
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",55,-13.934886057009692
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",56,-4.936484685196874
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",57,-11.425547962934273
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",58,-4.195250164113938
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",59,-17.087904971498507
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",60,-14.071419425548902
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",61,-7.930062777149742
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",62,-9.877356696006458
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",63,-3.6453922854993386
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",64,-10.32171951863776
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",65,-13.457092122618274
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",66,-4.209104975212811
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",67,-4.4664898925817
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",68,-4.768973553199695
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",69,-12.620119784521975
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",70,-4.778275811317138
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",71,-0.45167424921165933
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",72,-4.972619276130887
+ETH 15m,"S1 Paper signal (MBOFormer h=100, top 10%)",73,0.16308973637581006
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",34,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",35,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",36,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",37,-0.4892148663437354
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",38,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",39,-3.70676990405798
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",40,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",41,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",42,0.5712149808144571
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",43,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",44,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",45,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",46,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",47,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",48,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",49,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",50,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",51,-0.24152515522241574
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",52,1.7453006883684519
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",53,-1.6590748829443007
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",54,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",55,-0.014355245311259444
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",56,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",57,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",58,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",59,-1.0727286426791096
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",60,-0.2604451487588876
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",61,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",62,-0.752819751315116
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",63,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",64,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",65,0.4314154004669204
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",66,-0.22380385901823419
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",67,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",68,0.26086502628050745
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",69,-2.784079790446982
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",70,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",71,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",72,0.1263699719655514
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=10s",73,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",34,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",35,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",36,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",37,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",38,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",39,-0.6136649777768552
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",40,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",41,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",42,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",43,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",44,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",45,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",46,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",47,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",48,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",49,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",50,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",51,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",52,1.629882912244602
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",53,-1.4591949519052358
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",54,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",55,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",56,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",57,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",58,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",59,-0.5675522332795822
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",60,1.089959745922089
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",61,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",62,-0.35897010573625554
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",63,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",64,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",65,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",66,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",67,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",68,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",69,-1.108014976984486
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",70,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",71,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",72,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=10s",73,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",34,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",35,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",36,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",37,0.27685486825227745
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",38,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",39,-2.5277950136828427
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",40,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",41,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",42,-0.33439980659484836
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",43,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",44,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",45,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",46,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",47,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",48,-0.027437015560102293
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",49,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",50,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",51,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",52,2.8230623315780705
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",53,-0.7665449961143732
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",54,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",55,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",56,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",57,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",58,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",59,-3.5036931942266896
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",60,-0.023900102710723577
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",61,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",62,-0.4810650095319747
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",63,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",64,-0.4113700131225586
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",65,0.026375252842903586
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",66,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",67,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",68,-1.0992499058395624
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",69,-0.35509498770415787
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",70,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",71,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",72,0.08210501308597622
+ETH 15m,"S4 Cost-aware logistic + spot, H=10s",73,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",34,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",35,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",36,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",37,-0.41987010765552507
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",38,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",39,1.4263880257974835
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",40,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",41,-0.19916504349470013
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",42,-1.1593797033381454
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",43,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",44,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",45,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",46,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",47,-0.3844645410513869
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",48,0.47496527758598384
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",49,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",50,0.27389839454565124
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",51,0.0673199921774868
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",52,-0.9467783426551815
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",53,0.04157015645906332
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",54,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",55,0.237630015308857
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",56,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",57,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",58,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",59,-2.2748198773193353
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",60,-1.3039153881287562
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",61,0.22683830930986454
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",62,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",63,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",64,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",65,-0.8312651417770012
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",66,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",67,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",68,0.3023499936252833
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",69,1.172580010173917
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",70,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",71,0.0
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",72,-0.8035053195617432
+ETH 15m,"S2 Cost-aware MBOFusion + spot, H=30s",73,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",34,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",35,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",36,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",37,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",38,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",39,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",40,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",41,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",42,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",43,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",44,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",45,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",46,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",47,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",48,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",49,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",50,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",51,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",52,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",53,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",54,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",55,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",56,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",57,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",58,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",59,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",60,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",61,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",62,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",63,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",64,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",65,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",66,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",67,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",68,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",69,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",70,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",71,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",72,0.0
+ETH 15m,"S3 Cost-aware MBOFormer (events only), H=30s",73,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",34,-0.0829830791526792
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",35,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",36,-0.1679611726080889
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",37,1.5441496216118342
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",38,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",39,-0.9101248820424079
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",40,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",41,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",42,0.49920002083778386
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",43,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",44,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",45,-0.1956887957312098
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",46,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",47,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",48,-0.035056818743657736
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",49,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",50,-0.00833239422240215
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",51,0.019934941651821345
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",52,-1.8733056974622366
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",53,-0.44372501473091547
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",54,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",55,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",56,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",57,-0.12104504896879187
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",58,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",59,-1.572944851897955
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",60,0.02809515759229679
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",61,-0.0603249426364897
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",62,-0.6675798219871519
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",63,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",64,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",65,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",66,-0.06895649573378637
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",67,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",68,-2.239704989019856
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",69,-2.27792496175766
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",70,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",71,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",72,0.0
+ETH 15m,"S4 Cost-aware logistic + spot, H=30s",73,-0.12855415279202395
+ETH 15m,"S5 Fair value, taker in, hold to resolution",34,7.722714631233215
+ETH 15m,"S5 Fair value, taker in, hold to resolution",35,3.8331200583028795
+ETH 15m,"S5 Fair value, taker in, hold to resolution",36,0.0
+ETH 15m,"S5 Fair value, taker in, hold to resolution",37,-13.6493302293849
+ETH 15m,"S5 Fair value, taker in, hold to resolution",38,2.562814856348038
+ETH 15m,"S5 Fair value, taker in, hold to resolution",39,11.591924960297346
+ETH 15m,"S5 Fair value, taker in, hold to resolution",40,0.0
+ETH 15m,"S5 Fair value, taker in, hold to resolution",41,-0.9040050880861282
+ETH 15m,"S5 Fair value, taker in, hold to resolution",42,-9.605494971607925
+ETH 15m,"S5 Fair value, taker in, hold to resolution",43,-47.358889907679185
+ETH 15m,"S5 Fair value, taker in, hold to resolution",44,0.0
+ETH 15m,"S5 Fair value, taker in, hold to resolution",45,6.759410029735565
+ETH 15m,"S5 Fair value, taker in, hold to resolution",46,-10.727870424454212
+ETH 15m,"S5 Fair value, taker in, hold to resolution",47,-1.3788899503803251
+ETH 15m,"S5 Fair value, taker in, hold to resolution",48,0.24403991528511054
+ETH 15m,"S5 Fair value, taker in, hold to resolution",49,-3.613514638107844
+ETH 15m,"S5 Fair value, taker in, hold to resolution",50,2.262815142450333
+ETH 15m,"S5 Fair value, taker in, hold to resolution",51,-6.266349938476086
+ETH 15m,"S5 Fair value, taker in, hold to resolution",52,-53.97924356965393
+ETH 15m,"S5 Fair value, taker in, hold to resolution",53,55.574144931239566
+ETH 15m,"S5 Fair value, taker in, hold to resolution",54,-11.012929873920678
+ETH 15m,"S5 Fair value, taker in, hold to resolution",55,6.248980060238839
+ETH 15m,"S5 Fair value, taker in, hold to resolution",56,1.768415023407936
+ETH 15m,"S5 Fair value, taker in, hold to resolution",57,0.4230100744569306
+ETH 15m,"S5 Fair value, taker in, hold to resolution",58,0.0
+ETH 15m,"S5 Fair value, taker in, hold to resolution",59,42.317990489403016
+ETH 15m,"S5 Fair value, taker in, hold to resolution",60,17.0733151189065
+ETH 15m,"S5 Fair value, taker in, hold to resolution",61,20.567280009181502
+ETH 15m,"S5 Fair value, taker in, hold to resolution",62,-4.077784912178442
+ETH 15m,"S5 Fair value, taker in, hold to resolution",63,7.758415067127943
+ETH 15m,"S5 Fair value, taker in, hold to resolution",64,-0.4796449991944432
+ETH 15m,"S5 Fair value, taker in, hold to resolution",65,-13.98796014032602
+ETH 15m,"S5 Fair value, taker in, hold to resolution",66,0.0
+ETH 15m,"S5 Fair value, taker in, hold to resolution",67,0.0
+ETH 15m,"S5 Fair value, taker in, hold to resolution",68,-30.164299702563135
+ETH 15m,"S5 Fair value, taker in, hold to resolution",69,54.236499671608215
+ETH 15m,"S5 Fair value, taker in, hold to resolution",70,0.0
+ETH 15m,"S5 Fair value, taker in, hold to resolution",71,0.0
+ETH 15m,"S5 Fair value, taker in, hold to resolution",72,-1.0051250361707063
+ETH 15m,"S5 Fair value, taker in, hold to resolution",73,1.9653351294779782
+ETH 15m,"S6a Maker, no gate",34,-6.199999999999996
+ETH 15m,"S6a Maker, no gate",35,-7.160000000000005
+ETH 15m,"S6a Maker, no gate",36,-7.160000000000004
+ETH 15m,"S6a Maker, no gate",37,-22.999999999999996
+ETH 15m,"S6a Maker, no gate",38,-3.0049999999999977
+ETH 15m,"S6a Maker, no gate",39,-22.20000000000001
+ETH 15m,"S6a Maker, no gate",40,-4.605000000000003
+ETH 15m,"S6a Maker, no gate",41,-5.449999999999999
+ETH 15m,"S6a Maker, no gate",42,-15.549999999999997
+ETH 15m,"S6a Maker, no gate",43,-13.799999999999986
+ETH 15m,"S6a Maker, no gate",44,-2.1300000000000026
+ETH 15m,"S6a Maker, no gate",45,-8.914999999999992
+ETH 15m,"S6a Maker, no gate",46,-2.799999999999991
+ETH 15m,"S6a Maker, no gate",47,-3.495
+ETH 15m,"S6a Maker, no gate",48,-9.510000000000002
+ETH 15m,"S6a Maker, no gate",49,-1.8899999999999972
+ETH 15m,"S6a Maker, no gate",50,-7.5150000000000015
+ETH 15m,"S6a Maker, no gate",51,-11.399999999999997
+ETH 15m,"S6a Maker, no gate",52,-11.239999999999995
+ETH 15m,"S6a Maker, no gate",53,-6.250000000000008
+ETH 15m,"S6a Maker, no gate",54,-4.975000000000001
+ETH 15m,"S6a Maker, no gate",55,-9.250000000000004
+ETH 15m,"S6a Maker, no gate",56,-5.55
+ETH 15m,"S6a Maker, no gate",57,-12.049999999999988
+ETH 15m,"S6a Maker, no gate",58,-2.455000000000001
+ETH 15m,"S6a Maker, no gate",59,-26.250000000000004
+ETH 15m,"S6a Maker, no gate",60,-18.999999999999975
+ETH 15m,"S6a Maker, no gate",61,-8.705000000000005
+ETH 15m,"S6a Maker, no gate",62,-13.800000000000006
+ETH 15m,"S6a Maker, no gate",63,-4.750000000000002
+ETH 15m,"S6a Maker, no gate",64,-10.499999999999995
+ETH 15m,"S6a Maker, no gate",65,-6.750000000000001
+ETH 15m,"S6a Maker, no gate",66,-0.35500000000000026
+ETH 15m,"S6a Maker, no gate",67,-3.799999999999999
+ETH 15m,"S6a Maker, no gate",68,-13.899999999999997
+ETH 15m,"S6a Maker, no gate",69,-13.699999999999998
+ETH 15m,"S6a Maker, no gate",70,-2.6000000000000014
+ETH 15m,"S6a Maker, no gate",71,-0.5099999999999988
+ETH 15m,"S6a Maker, no gate",72,-6.849999999999999
+ETH 15m,"S6a Maker, no gate",73,-0.4850000000000012
+ETH 15m,"S6b Maker, paper MBOFormer gate",34,-0.0500000000000016
+ETH 15m,"S6b Maker, paper MBOFormer gate",35,-1.100000000000002
+ETH 15m,"S6b Maker, paper MBOFormer gate",36,-1.3100000000000014
+ETH 15m,"S6b Maker, paper MBOFormer gate",37,-1.200000000000001
+ETH 15m,"S6b Maker, paper MBOFormer gate",38,-0.704999999999999
+ETH 15m,"S6b Maker, paper MBOFormer gate",39,0.4500000000000002
+ETH 15m,"S6b Maker, paper MBOFormer gate",40,-1.1050000000000009
+ETH 15m,"S6b Maker, paper MBOFormer gate",41,-2.549999999999997
+ETH 15m,"S6b Maker, paper MBOFormer gate",42,-2.999999999999999
+ETH 15m,"S6b Maker, paper MBOFormer gate",43,-1.799999999999999
+ETH 15m,"S6b Maker, paper MBOFormer gate",44,0.9149999999999999
+ETH 15m,"S6b Maker, paper MBOFormer gate",45,-1.3599999999999977
+ETH 15m,"S6b Maker, paper MBOFormer gate",46,0.3000000000000025
+ETH 15m,"S6b Maker, paper MBOFormer gate",47,-0.7000000000000037
+ETH 15m,"S6b Maker, paper MBOFormer gate",48,-2.2049999999999983
+ETH 15m,"S6b Maker, paper MBOFormer gate",49,0.6599999999999996
+ETH 15m,"S6b Maker, paper MBOFormer gate",50,0.6350000000000007
+ETH 15m,"S6b Maker, paper MBOFormer gate",51,-2.95
+ETH 15m,"S6b Maker, paper MBOFormer gate",52,-7.449999999999999
+ETH 15m,"S6b Maker, paper MBOFormer gate",53,4.999999999999998
+ETH 15m,"S6b Maker, paper MBOFormer gate",54,0.8850000000000003
+ETH 15m,"S6b Maker, paper MBOFormer gate",55,1.8499999999999996
+ETH 15m,"S6b Maker, paper MBOFormer gate",56,-1.6999999999999984
+ETH 15m,"S6b Maker, paper MBOFormer gate",57,2.4499999999999984
+ETH 15m,"S6b Maker, paper MBOFormer gate",58,-0.5549999999999998
+ETH 15m,"S6b Maker, paper MBOFormer gate",59,1.6499999999999972
+ETH 15m,"S6b Maker, paper MBOFormer gate",60,-4.15
+ETH 15m,"S6b Maker, paper MBOFormer gate",61,0.21000000000000085
+ETH 15m,"S6b Maker, paper MBOFormer gate",62,-0.2500000000000002
+ETH 15m,"S6b Maker, paper MBOFormer gate",63,-2.650000000000001
+ETH 15m,"S6b Maker, paper MBOFormer gate",64,0.9000000000000012
+ETH 15m,"S6b Maker, paper MBOFormer gate",65,1.2499999999999991
+ETH 15m,"S6b Maker, paper MBOFormer gate",66,2.899999999999999
+ETH 15m,"S6b Maker, paper MBOFormer gate",67,0.4000000000000008
+ETH 15m,"S6b Maker, paper MBOFormer gate",68,-1.4500000000000004
+ETH 15m,"S6b Maker, paper MBOFormer gate",69,-1.8500000000000005
+ETH 15m,"S6b Maker, paper MBOFormer gate",70,1.0500000000000003
+ETH 15m,"S6b Maker, paper MBOFormer gate",71,0.13999999999999982
+ETH 15m,"S6b Maker, paper MBOFormer gate",72,-0.7499999999999996
+ETH 15m,"S6b Maker, paper MBOFormer gate",73,2.675
+ETH 15m,"S6c Maker, fair-value gate",34,2.4
+ETH 15m,"S6c Maker, fair-value gate",35,0.6500000000000008
+ETH 15m,"S6c Maker, fair-value gate",36,2.8499999999999996
+ETH 15m,"S6c Maker, fair-value gate",37,-1.2500000000000004
+ETH 15m,"S6c Maker, fair-value gate",38,-0.40000000000000013
+ETH 15m,"S6c Maker, fair-value gate",39,4.500000000000001
+ETH 15m,"S6c Maker, fair-value gate",40,0.25
+ETH 15m,"S6c Maker, fair-value gate",41,-3.7500000000000004
+ETH 15m,"S6c Maker, fair-value gate",42,-2.1499999999999995
+ETH 15m,"S6c Maker, fair-value gate",43,-1.9500000000000002
+ETH 15m,"S6c Maker, fair-value gate",44,-3.2
+ETH 15m,"S6c Maker, fair-value gate",45,2.9
+ETH 15m,"S6c Maker, fair-value gate",46,-2.3
+ETH 15m,"S6c Maker, fair-value gate",47,-2.3499999999999996
+ETH 15m,"S6c Maker, fair-value gate",48,-4.249999999999998
+ETH 15m,"S6c Maker, fair-value gate",49,-1.7000000000000002
+ETH 15m,"S6c Maker, fair-value gate",50,-0.45000000000000107
+ETH 15m,"S6c Maker, fair-value gate",51,-2.7499999999999987
+ETH 15m,"S6c Maker, fair-value gate",52,-2.5
+ETH 15m,"S6c Maker, fair-value gate",53,3.6999999999999997
+ETH 15m,"S6c Maker, fair-value gate",54,-1.8499999999999999
+ETH 15m,"S6c Maker, fair-value gate",55,-0.5999999999999996
+ETH 15m,"S6c Maker, fair-value gate",56,1.2499999999999996
+ETH 15m,"S6c Maker, fair-value gate",57,0.44999999999999973
+ETH 15m,"S6c Maker, fair-value gate",58,2.1500000000000004
+ETH 15m,"S6c Maker, fair-value gate",59,2.55
+ETH 15m,"S6c Maker, fair-value gate",60,1.75
+ETH 15m,"S6c Maker, fair-value gate",61,3.25
+ETH 15m,"S6c Maker, fair-value gate",62,1.0000000000000004
+ETH 15m,"S6c Maker, fair-value gate",63,2.75
+ETH 15m,"S6c Maker, fair-value gate",64,0.2500000000000009
+ETH 15m,"S6c Maker, fair-value gate",65,-2.35
+ETH 15m,"S6c Maker, fair-value gate",66,1.9500000000000002
+ETH 15m,"S6c Maker, fair-value gate",67,-2.6
+ETH 15m,"S6c Maker, fair-value gate",68,-1.9
+ETH 15m,"S6c Maker, fair-value gate",69,3.05
+ETH 15m,"S6c Maker, fair-value gate",70,2.2500000000000004
+ETH 15m,"S6c Maker, fair-value gate",71,2.75
+ETH 15m,"S6c Maker, fair-value gate",72,-1.95
+ETH 15m,"S6c Maker, fair-value gate",73,2.8
+ETH 15m,"S6d Maker, cost-aware model gate",34,-6.199999999999996
+ETH 15m,"S6d Maker, cost-aware model gate",35,-7.160000000000005
+ETH 15m,"S6d Maker, cost-aware model gate",36,-7.260000000000002
+ETH 15m,"S6d Maker, cost-aware model gate",37,-21.099999999999987
+ETH 15m,"S6d Maker, cost-aware model gate",38,-3.0499999999999976
+ETH 15m,"S6d Maker, cost-aware model gate",39,-15.350000000000001
+ETH 15m,"S6d Maker, cost-aware model gate",40,-4.655000000000004
+ETH 15m,"S6d Maker, cost-aware model gate",41,-5.499999999999998
+ETH 15m,"S6d Maker, cost-aware model gate",42,-13.300000000000002
+ETH 15m,"S6d Maker, cost-aware model gate",43,-13.349999999999985
+ETH 15m,"S6d Maker, cost-aware model gate",44,-2.1350000000000025
+ETH 15m,"S6d Maker, cost-aware model gate",45,-8.909999999999991
+ETH 15m,"S6d Maker, cost-aware model gate",46,-2.799999999999991
+ETH 15m,"S6d Maker, cost-aware model gate",47,-3.200000000000001
+ETH 15m,"S6d Maker, cost-aware model gate",48,-9.505
+ETH 15m,"S6d Maker, cost-aware model gate",49,-1.8399999999999972
+ETH 15m,"S6d Maker, cost-aware model gate",50,-7.060000000000002
+ETH 15m,"S6d Maker, cost-aware model gate",51,-10.800000000000004
+ETH 15m,"S6d Maker, cost-aware model gate",52,-11.384999999999996
+ETH 15m,"S6d Maker, cost-aware model gate",53,-5.950000000000009
+ETH 15m,"S6d Maker, cost-aware model gate",54,-4.7200000000000015
+ETH 15m,"S6d Maker, cost-aware model gate",55,-7.2
+ETH 15m,"S6d Maker, cost-aware model gate",56,-5.349999999999998
+ETH 15m,"S6d Maker, cost-aware model gate",57,-11.39999999999999
+ETH 15m,"S6d Maker, cost-aware model gate",58,-2.4500000000000006
+ETH 15m,"S6d Maker, cost-aware model gate",59,-22.05
+ETH 15m,"S6d Maker, cost-aware model gate",60,-15.54999999999998
+ETH 15m,"S6d Maker, cost-aware model gate",61,-8.705000000000005
+ETH 15m,"S6d Maker, cost-aware model gate",62,-11.2
+ETH 15m,"S6d Maker, cost-aware model gate",63,-4.750000000000002
+ETH 15m,"S6d Maker, cost-aware model gate",64,-9.499999999999993
+ETH 15m,"S6d Maker, cost-aware model gate",65,-3.1000000000000014
+ETH 15m,"S6d Maker, cost-aware model gate",66,-0.35000000000000026
+ETH 15m,"S6d Maker, cost-aware model gate",67,-3.849999999999998
+ETH 15m,"S6d Maker, cost-aware model gate",68,-4.549999999999996
+ETH 15m,"S6d Maker, cost-aware model gate",69,-10.650000000000004
+ETH 15m,"S6d Maker, cost-aware model gate",70,-2.5500000000000016
+ETH 15m,"S6d Maker, cost-aware model gate",71,-0.5499999999999986
+ETH 15m,"S6d Maker, cost-aware model gate",72,-6.6999999999999975
+ETH 15m,"S6d Maker, cost-aware model gate",73,-0.4750000000000014
+ETH 15m,"S6e Maker, fair value + cost-aware gate",34,2.4
+ETH 15m,"S6e Maker, fair value + cost-aware gate",35,0.6500000000000008
+ETH 15m,"S6e Maker, fair value + cost-aware gate",36,2.8999999999999995
+ETH 15m,"S6e Maker, fair value + cost-aware gate",37,-1.7500000000000009
+ETH 15m,"S6e Maker, fair value + cost-aware gate",38,-0.40000000000000013
+ETH 15m,"S6e Maker, fair value + cost-aware gate",39,3.0500000000000007
+ETH 15m,"S6e Maker, fair value + cost-aware gate",40,0.25
+ETH 15m,"S6e Maker, fair value + cost-aware gate",41,-3.7500000000000004
+ETH 15m,"S6e Maker, fair value + cost-aware gate",42,-2.1499999999999995
+ETH 15m,"S6e Maker, fair value + cost-aware gate",43,-1.9500000000000002
+ETH 15m,"S6e Maker, fair value + cost-aware gate",44,-3.2
+ETH 15m,"S6e Maker, fair value + cost-aware gate",45,2.9
+ETH 15m,"S6e Maker, fair value + cost-aware gate",46,-2.3
+ETH 15m,"S6e Maker, fair value + cost-aware gate",47,-2.3499999999999996
+ETH 15m,"S6e Maker, fair value + cost-aware gate",48,-4.249999999999998
+ETH 15m,"S6e Maker, fair value + cost-aware gate",49,-1.7000000000000002
+ETH 15m,"S6e Maker, fair value + cost-aware gate",50,-0.45000000000000107
+ETH 15m,"S6e Maker, fair value + cost-aware gate",51,-2.899999999999999
+ETH 15m,"S6e Maker, fair value + cost-aware gate",52,-2.5
+ETH 15m,"S6e Maker, fair value + cost-aware gate",53,2.35
+ETH 15m,"S6e Maker, fair value + cost-aware gate",54,-1.8499999999999999
+ETH 15m,"S6e Maker, fair value + cost-aware gate",55,-0.8999999999999995
+ETH 15m,"S6e Maker, fair value + cost-aware gate",56,1.2499999999999996
+ETH 15m,"S6e Maker, fair value + cost-aware gate",57,0.44999999999999973
+ETH 15m,"S6e Maker, fair value + cost-aware gate",58,2.1500000000000004
+ETH 15m,"S6e Maker, fair value + cost-aware gate",59,2.55
+ETH 15m,"S6e Maker, fair value + cost-aware gate",60,3.4499999999999993
+ETH 15m,"S6e Maker, fair value + cost-aware gate",61,3.05
+ETH 15m,"S6e Maker, fair value + cost-aware gate",62,1.8000000000000005
+ETH 15m,"S6e Maker, fair value + cost-aware gate",63,2.75
+ETH 15m,"S6e Maker, fair value + cost-aware gate",64,0.6500000000000008
+ETH 15m,"S6e Maker, fair value + cost-aware gate",65,-2.35
+ETH 15m,"S6e Maker, fair value + cost-aware gate",66,1.9500000000000002
+ETH 15m,"S6e Maker, fair value + cost-aware gate",67,-2.6
+ETH 15m,"S6e Maker, fair value + cost-aware gate",68,-1.9
+ETH 15m,"S6e Maker, fair value + cost-aware gate",69,2.9499999999999997
+ETH 15m,"S6e Maker, fair value + cost-aware gate",70,2.2500000000000004
+ETH 15m,"S6e Maker, fair value + cost-aware gate",71,2.8000000000000003
+ETH 15m,"S6e Maker, fair value + cost-aware gate",72,-1.3499999999999999
+ETH 15m,"S6e Maker, fair value + cost-aware gate",73,2.8
